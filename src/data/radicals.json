@@ -1,0 +1,3463 @@
+{
+  "name": "Chinese Radicals",
+  "description": "Radicals extracted from makemeahanzi dictionary",
+  "totalRadicals": 295,
+  "radicals": [
+    {
+      "radical": "一",
+      "pinyin": "",
+      "meaning": "one; a, an; alone",
+      "strokes": 1,
+      "examples": [
+        "丁",
+        "丂",
+        "七",
+        "丄",
+        "万"
+      ]
+    },
+    {
+      "radical": "丨",
+      "pinyin": "",
+      "meaning": "number one; line",
+      "strokes": 1,
+      "examples": [
+        "丩",
+        "个",
+        "丫",
+        "中",
+        "丰"
+      ]
+    },
+    {
+      "radical": "丶",
+      "pinyin": "",
+      "meaning": "dot",
+      "strokes": 1,
+      "examples": [
+        "丸",
+        "丹",
+        "为",
+        "主",
+        "丽"
+      ]
+    },
+    {
+      "radical": "丿",
+      "pinyin": "",
+      "meaning": "slash",
+      "strokes": 1,
+      "examples": [
+        "乂",
+        "乃",
+        "久",
+        "乇",
+        "么"
+      ]
+    },
+    {
+      "radical": "乙",
+      "pinyin": "",
+      "meaning": "second; 2nd heavenly stem",
+      "strokes": 1,
+      "examples": [
+        "九",
+        "乞",
+        "乶",
+        "乾",
+        "氹"
+      ]
+    },
+    {
+      "radical": "乚",
+      "pinyin": "",
+      "meaning": "secret, hidden, mysterious; small, minute; to conceal",
+      "strokes": 1,
+      "examples": [
+        "乜",
+        "也",
+        "乩",
+        "乱",
+        "乳"
+      ]
+    },
+    {
+      "radical": "乛",
+      "pinyin": "",
+      "meaning": "kwukyel",
+      "strokes": 1,
+      "examples": [
+        "卫"
+      ]
+    },
+    {
+      "radical": "亅",
+      "pinyin": "",
+      "meaning": "hook",
+      "strokes": 1,
+      "examples": [
+        "了",
+        "予",
+        "争",
+        "事"
+      ]
+    },
+    {
+      "radical": "⺀",
+      "pinyin": "",
+      "meaning": "ice",
+      "strokes": 2,
+      "examples": [
+        "冬"
+      ]
+    },
+    {
+      "radical": "⺈",
+      "pinyin": "",
+      "meaning": "",
+      "strokes": 2,
+      "examples": []
+    },
+    {
+      "radical": "⺊",
+      "pinyin": "",
+      "meaning": "",
+      "strokes": 2,
+      "examples": [
+        "占",
+        "卢",
+        "卣",
+        "贞"
+      ]
+    },
+    {
+      "radical": "㔾",
+      "pinyin": "",
+      "meaning": "seal; kneeling person",
+      "strokes": 2,
+      "examples": [
+        "卮",
+        "危",
+        "卷",
+        "卺"
+      ]
+    },
+    {
+      "radical": "丷",
+      "pinyin": "",
+      "meaning": "kwukyel",
+      "strokes": 2,
+      "examples": [
+        "兰",
+        "关",
+        "养",
+        "兼",
+        "兽"
+      ]
+    },
+    {
+      "radical": "二",
+      "pinyin": "",
+      "meaning": "two; twice",
+      "strokes": 2,
+      "examples": [
+        "亍",
+        "于",
+        "亏",
+        "云",
+        "互"
+      ]
+    },
+    {
+      "radical": "人",
+      "pinyin": "",
+      "meaning": "man, person; people",
+      "strokes": 2,
+      "examples": [
+        "亼",
+        "亾",
+        "仄",
+        "今",
+        "介"
+      ]
+    },
+    {
+      "radical": "儿",
+      "pinyin": "",
+      "meaning": "son, child",
+      "strokes": 2,
+      "examples": [
+        "允",
+        "元",
+        "兄",
+        "充",
+        "兆"
+      ]
+    },
+    {
+      "radical": "入",
+      "pinyin": "",
+      "meaning": "to enter, to come in; to join",
+      "strokes": 2,
+      "examples": [
+        "內",
+        "全",
+        "兩",
+        "内"
+      ]
+    },
+    {
+      "radical": "八",
+      "pinyin": "",
+      "meaning": "eight; all around, all sides",
+      "strokes": 2,
+      "examples": [
+        "公",
+        "六",
+        "兮",
+        "共",
+        "兴"
+      ]
+    },
+    {
+      "radical": "冂",
+      "pinyin": "",
+      "meaning": "wide",
+      "strokes": 2,
+      "examples": [
+        "円",
+        "冈",
+        "冉",
+        "冊",
+        "冋"
+      ]
+    },
+    {
+      "radical": "冖",
+      "pinyin": "",
+      "meaning": "cover",
+      "strokes": 2,
+      "examples": [
+        "冗",
+        "冘",
+        "写",
+        "农",
+        "冝"
+      ]
+    },
+    {
+      "radical": "几",
+      "pinyin": "",
+      "meaning": "small table; how many; a few, some",
+      "strokes": 2,
+      "examples": [
+        "凡",
+        "凤",
+        "凫",
+        "凭",
+        "凯"
+      ]
+    },
+    {
+      "radical": "凵",
+      "pinyin": "",
+      "meaning": "container; receptacle",
+      "strokes": 2,
+      "examples": [
+        "凶",
+        "凸",
+        "凹",
+        "出",
+        "击"
+      ]
+    },
+    {
+      "radical": "刁",
+      "pinyin": "",
+      "meaning": "tricky, sly, crafty, cunning",
+      "strokes": 2,
+      "examples": []
+    },
+    {
+      "radical": "刂",
+      "pinyin": "",
+      "meaning": "knife",
+      "strokes": 2,
+      "examples": [
+        "刈",
+        "刊",
+        "刎",
+        "刑",
+        "划"
+      ]
+    },
+    {
+      "radical": "力",
+      "pinyin": "",
+      "meaning": "strength, power; capability, influence",
+      "strokes": 2,
+      "examples": [
+        "劝",
+        "办",
+        "功",
+        "加",
+        "劢"
+      ]
+    },
+    {
+      "radical": "勹",
+      "pinyin": "",
+      "meaning": "wrap",
+      "strokes": 2,
+      "examples": [
+        "勺",
+        "勻",
+        "勾",
+        "勿",
+        "匀"
+      ]
+    },
+    {
+      "radical": "匕",
+      "pinyin": "",
+      "meaning": "spoon, ladle; knife, dirk",
+      "strokes": 2,
+      "examples": [
+        "化",
+        "北",
+        "匙"
+      ]
+    },
+    {
+      "radical": "匚",
+      "pinyin": "",
+      "meaning": "box; basket",
+      "strokes": 2,
+      "examples": [
+        "匛",
+        "匝",
+        "匠",
+        "匡",
+        "匣"
+      ]
+    },
+    {
+      "radical": "匸",
+      "pinyin": "",
+      "meaning": "box",
+      "strokes": 2,
+      "examples": [
+        "匹",
+        "区",
+        "医",
+        "匽",
+        "匾"
+      ]
+    },
+    {
+      "radical": "卜",
+      "pinyin": "",
+      "meaning": "divination, fortune-telling; prophecy",
+      "strokes": 2,
+      "examples": [
+        "卞",
+        "卡",
+        "卦"
+      ]
+    },
+    {
+      "radical": "卩",
+      "pinyin": "",
+      "meaning": "seal; kneeling person",
+      "strokes": 2,
+      "examples": [
+        "卬",
+        "卯",
+        "印",
+        "即",
+        "却"
+      ]
+    },
+    {
+      "radical": "厂",
+      "pinyin": "",
+      "meaning": "cliff; factory, workshop; building",
+      "strokes": 2,
+      "examples": [
+        "厃",
+        "厄",
+        "厅",
+        "历",
+        "厉"
+      ]
+    },
+    {
+      "radical": "厶",
+      "pinyin": "",
+      "meaning": "private, secret",
+      "strokes": 2,
+      "examples": [
+        "厷",
+        "厹",
+        "去",
+        "厽",
+        "县"
+      ]
+    },
+    {
+      "radical": "又",
+      "pinyin": "",
+      "meaning": "and, also, again, in addition",
+      "strokes": 2,
+      "examples": [
+        "叉",
+        "及",
+        "友",
+        "双",
+        "反"
+      ]
+    },
+    {
+      "radical": "讠",
+      "pinyin": "",
+      "meaning": "words, speech; to speak, to say",
+      "strokes": 2,
+      "examples": [
+        "计",
+        "订",
+        "讣",
+        "认",
+        "讥"
+      ]
+    },
+    {
+      "radical": "⺌",
+      "pinyin": "",
+      "meaning": "",
+      "strokes": 3,
+      "examples": [
+        "尚",
+        "尝",
+        "当",
+        "辉"
+      ]
+    },
+    {
+      "radical": "⺍",
+      "pinyin": "",
+      "meaning": "",
+      "strokes": 3,
+      "examples": []
+    },
+    {
+      "radical": "丬",
+      "pinyin": "",
+      "meaning": "half of tree trunk",
+      "strokes": 3,
+      "examples": [
+        "将"
+      ]
+    },
+    {
+      "radical": "冫",
+      "pinyin": "",
+      "meaning": "to study, to practice; habit",
+      "strokes": 3,
+      "examples": [
+        "习",
+        "冰",
+        "冱",
+        "冲",
+        "决"
+      ]
+    },
+    {
+      "radical": "幺",
+      "pinyin": "",
+      "meaning": "country, village; rural",
+      "strokes": 3,
+      "examples": [
+        "乡",
+        "幻",
+        "幼",
+        "幽",
+        "幾"
+      ]
+    },
+    {
+      "radical": "兀",
+      "pinyin": "",
+      "meaning": "weak; lame",
+      "strokes": 3,
+      "examples": []
+    },
+    {
+      "radical": "囗",
+      "pinyin": "",
+      "meaning": "enclosure; border",
+      "strokes": 3,
+      "examples": [
+        "囚",
+        "四",
+        "囝",
+        "回",
+        "囟"
+      ]
+    },
+    {
+      "radical": "土",
+      "pinyin": "",
+      "meaning": "soil, earth; items made of earth",
+      "strokes": 3,
+      "examples": [
+        "圣",
+        "圤",
+        "在",
+        "圩",
+        "圪"
+      ]
+    },
+    {
+      "radical": "士",
+      "pinyin": "",
+      "meaning": "scholar, gentleman; soldier",
+      "strokes": 3,
+      "examples": [
+        "壬",
+        "壮",
+        "壯",
+        "声",
+        "壳"
+      ]
+    },
+    {
+      "radical": "夊",
+      "pinyin": "",
+      "meaning": "to go slowly",
+      "strokes": 3,
+      "examples": [
+        "夌",
+        "复",
+        "夏",
+        "夔"
+      ]
+    },
+    {
+      "radical": "夕",
+      "pinyin": "",
+      "meaning": "evening, night, dusk; slanted",
+      "strokes": 3,
+      "examples": [
+        "外",
+        "夗",
+        "夙",
+        "多",
+        "夜"
+      ]
+    },
+    {
+      "radical": "女",
+      "pinyin": "",
+      "meaning": "woman, girl; female",
+      "strokes": 3,
+      "examples": [
+        "奴",
+        "奶",
+        "奸",
+        "她",
+        "奼"
+      ]
+    },
+    {
+      "radical": "子",
+      "pinyin": "",
+      "meaning": "son, child; seed, egg; fruit; small thing",
+      "strokes": 3,
+      "examples": [
+        "孓",
+        "孔",
+        "孕",
+        "字",
+        "存"
+      ]
+    },
+    {
+      "radical": "孑",
+      "pinyin": "",
+      "meaning": "alone, lonely, solitary; remaining, left-over",
+      "strokes": 3,
+      "examples": []
+    },
+    {
+      "radical": "宀",
+      "pinyin": "",
+      "meaning": "roof; house",
+      "strokes": 3,
+      "examples": [
+        "宁",
+        "它",
+        "宄",
+        "宅",
+        "宇"
+      ]
+    },
+    {
+      "radical": "小",
+      "pinyin": "",
+      "meaning": "small, tiny, insignificant",
+      "strokes": 3,
+      "examples": [
+        "少",
+        "尔",
+        "尕",
+        "尖",
+        "尗"
+      ]
+    },
+    {
+      "radical": "尢",
+      "pinyin": "",
+      "meaning": "weak, lame",
+      "strokes": 3,
+      "examples": [
+        "尤",
+        "尥",
+        "尬",
+        "就",
+        "尴"
+      ]
+    },
+    {
+      "radical": "屮",
+      "pinyin": "",
+      "meaning": "sprout",
+      "strokes": 3,
+      "examples": [
+        "屯",
+        "屰"
+      ]
+    },
+    {
+      "radical": "山",
+      "pinyin": "",
+      "meaning": "mountain, hill, peak",
+      "strokes": 3,
+      "examples": [
+        "屹",
+        "屺",
+        "屾",
+        "屿",
+        "岁"
+      ]
+    },
+    {
+      "radical": "巛",
+      "pinyin": "",
+      "meaning": "stream, river",
+      "strokes": 3,
+      "examples": [
+        "巠",
+        "巡",
+        "巢",
+        "巤"
+      ]
+    },
+    {
+      "radical": "工",
+      "pinyin": "",
+      "meaning": "labor, work; laborer, worker",
+      "strokes": 3,
+      "examples": [
+        "左",
+        "巧",
+        "巩",
+        "巫",
+        "差"
+      ]
+    },
+    {
+      "radical": "巳",
+      "pinyin": "",
+      "meaning": "the hours from 9 to 11; 6th terrestrial branch",
+      "strokes": 3,
+      "examples": [
+        "巴",
+        "巵",
+        "巷",
+        "巸",
+        "巽"
+      ]
+    },
+    {
+      "radical": "廾",
+      "pinyin": "",
+      "meaning": "two hands",
+      "strokes": 3,
+      "examples": [
+        "廿",
+        "开",
+        "弁",
+        "异",
+        "弃"
+      ]
+    },
+    {
+      "radical": "弋",
+      "pinyin": "",
+      "meaning": "to catch, to arrest; to shoot with a bow",
+      "strokes": 3,
+      "examples": [
+        "式",
+        "弑",
+        "弒",
+        "甙",
+        "贰"
+      ]
+    },
+    {
+      "radical": "弓",
+      "pinyin": "",
+      "meaning": "bow; curved, arched",
+      "strokes": 3,
+      "examples": [
+        "弔",
+        "引",
+        "弗",
+        "弘",
+        "弛"
+      ]
+    },
+    {
+      "radical": "彑",
+      "pinyin": "",
+      "meaning": "snout",
+      "strokes": 3,
+      "examples": [
+        "彔",
+        "彖",
+        "彘",
+        "彙",
+        "彝"
+      ]
+    },
+    {
+      "radical": "彳",
+      "pinyin": "",
+      "meaning": "to step with the left foot",
+      "strokes": 3,
+      "examples": [
+        "彷",
+        "彸",
+        "役",
+        "彻",
+        "彼"
+      ]
+    },
+    {
+      "radical": "忄",
+      "pinyin": "",
+      "meaning": "heart; mind; soul",
+      "strokes": 3,
+      "examples": [
+        "忆",
+        "忉",
+        "忏",
+        "忕",
+        "忖"
+      ]
+    },
+    {
+      "radical": "犭",
+      "pinyin": "",
+      "meaning": "dog",
+      "strokes": 3,
+      "examples": [
+        "犯",
+        "犰",
+        "犴",
+        "犷",
+        "犸"
+      ]
+    },
+    {
+      "radical": "辶",
+      "pinyin": "",
+      "meaning": "to walk; walking",
+      "strokes": 3,
+      "examples": [
+        "边",
+        "辽",
+        "达",
+        "迁",
+        "迂"
+      ]
+    },
+    {
+      "radical": "门",
+      "pinyin": "",
+      "meaning": "gate, door, entrance, opening",
+      "strokes": 3,
+      "examples": [
+        "闩",
+        "闪",
+        "闫",
+        "闭",
+        "问"
+      ]
+    },
+    {
+      "radical": "飞",
+      "pinyin": "",
+      "meaning": "to fly, to dart; high",
+      "strokes": 3,
+      "examples": []
+    },
+    {
+      "radical": "⺗",
+      "pinyin": "",
+      "meaning": "heart; mind; soul",
+      "strokes": 4,
+      "examples": [
+        "忝",
+        "恭",
+        "慕"
+      ]
+    },
+    {
+      "radical": "⺳",
+      "pinyin": "",
+      "meaning": "net, network",
+      "strokes": 4,
+      "examples": [
+        "罔",
+        "罕",
+        "罙"
+      ]
+    },
+    {
+      "radical": "⺼",
+      "pinyin": "",
+      "meaning": "meat, flesh; organic compound",
+      "strokes": 4,
+      "examples": [
+        "冑",
+        "朊",
+        "肋",
+        "肌",
+        "肓"
+      ]
+    },
+    {
+      "radical": "尣",
+      "pinyin": "",
+      "meaning": "weak, lame",
+      "strokes": 4,
+      "examples": []
+    },
+    {
+      "radical": "戈",
+      "pinyin": "",
+      "meaning": "spear, lance, halberd",
+      "strokes": 4,
+      "examples": [
+        "戉",
+        "戊",
+        "戋",
+        "戌",
+        "戍"
+      ]
+    },
+    {
+      "radical": "手",
+      "pinyin": "",
+      "meaning": "hand",
+      "strokes": 4,
+      "examples": [
+        "承",
+        "拜",
+        "拳",
+        "拿",
+        "挈"
+      ]
+    },
+    {
+      "radical": "支",
+      "pinyin": "",
+      "meaning": "to support, to sustain; to withdraw, to pay; a branch (of a bank)",
+      "strokes": 4,
+      "examples": []
+    },
+    {
+      "radical": "攴",
+      "pinyin": "",
+      "meaning": "to rap, to tap",
+      "strokes": 4,
+      "examples": [
+        "敲"
+      ]
+    },
+    {
+      "radical": "攵",
+      "pinyin": "",
+      "meaning": "to rap, to tap; script; to let go",
+      "strokes": 4,
+      "examples": [
+        "收",
+        "攸",
+        "改",
+        "攻",
+        "放"
+      ]
+    },
+    {
+      "radical": "文",
+      "pinyin": "",
+      "meaning": "culture, literature, writing",
+      "strokes": 4,
+      "examples": [
+        "斋",
+        "斌",
+        "斐",
+        "斑",
+        "斓"
+      ]
+    },
+    {
+      "radical": "斗",
+      "pinyin": "",
+      "meaning": "to struggle, to fight, to contend; measuring cup",
+      "strokes": 4,
+      "examples": [
+        "料",
+        "斛",
+        "斜",
+        "斟",
+        "斡"
+      ]
+    },
+    {
+      "radical": "斤",
+      "pinyin": "",
+      "meaning": "a catty (about 500 grams); an axe; keen, shrewd",
+      "strokes": 4,
+      "examples": [
+        "斥",
+        "斦",
+        "斧",
+        "斫",
+        "斬"
+      ]
+    },
+    {
+      "radical": "方",
+      "pinyin": "",
+      "meaning": "square, rectangle; side; region; flag",
+      "strokes": 4,
+      "examples": [
+        "於",
+        "施",
+        "斿",
+        "旁",
+        "旃"
+      ]
+    },
+    {
+      "radical": "无",
+      "pinyin": "",
+      "meaning": "no, not; lacking, -less",
+      "strokes": 4,
+      "examples": []
+    },
+    {
+      "radical": "旡",
+      "pinyin": "",
+      "meaning": "to choke on something",
+      "strokes": 4,
+      "examples": [
+        "既"
+      ]
+    },
+    {
+      "radical": "曰",
+      "pinyin": "",
+      "meaning": "to speak; to say",
+      "strokes": 4,
+      "examples": [
+        "曱",
+        "曲",
+        "曳",
+        "更",
+        "曷"
+      ]
+    },
+    {
+      "radical": "月",
+      "pinyin": "",
+      "meaning": "moon; month",
+      "strokes": 4,
+      "examples": [
+        "有",
+        "朋",
+        "服",
+        "朐",
+        "朔"
+      ]
+    },
+    {
+      "radical": "木",
+      "pinyin": "",
+      "meaning": "tree; wood, lumber; wooden",
+      "strokes": 4,
+      "examples": [
+        "未",
+        "末",
+        "本",
+        "札",
+        "朮"
+      ]
+    },
+    {
+      "radical": "欠",
+      "pinyin": "",
+      "meaning": "to lack, to owe; to breathe, to yawn",
+      "strokes": 4,
+      "examples": [
+        "次",
+        "欢",
+        "欣",
+        "欤",
+        "欧"
+      ]
+    },
+    {
+      "radical": "止",
+      "pinyin": "",
+      "meaning": "to stop, to halt; to detain; to desist",
+      "strokes": 4,
+      "examples": [
+        "正",
+        "此",
+        "步",
+        "武",
+        "歧"
+      ]
+    },
+    {
+      "radical": "歹",
+      "pinyin": "",
+      "meaning": "corpse; death; evil, depraved, wicked",
+      "strokes": 4,
+      "examples": [
+        "死",
+        "歼",
+        "殁",
+        "殂",
+        "殃"
+      ]
+    },
+    {
+      "radical": "殳",
+      "pinyin": "",
+      "meaning": "tool, weapon",
+      "strokes": 4,
+      "examples": [
+        "殴",
+        "段",
+        "殷",
+        "殸",
+        "殹"
+      ]
+    },
+    {
+      "radical": "毋",
+      "pinyin": "",
+      "meaning": "not; do not; surname",
+      "strokes": 4,
+      "examples": [
+        "毌"
+      ]
+    },
+    {
+      "radical": "毛",
+      "pinyin": "",
+      "meaning": "hair, fur, feathers; coarse",
+      "strokes": 4,
+      "examples": [
+        "毡",
+        "毪",
+        "毫",
+        "毯",
+        "毳"
+      ]
+    },
+    {
+      "radical": "氏",
+      "pinyin": "",
+      "meaning": "clan, family; maiden name",
+      "strokes": 4,
+      "examples": [
+        "氐"
+      ]
+    },
+    {
+      "radical": "气",
+      "pinyin": "",
+      "meaning": "air, gas; steam, vapor; anger",
+      "strokes": 4,
+      "examples": [
+        "氕",
+        "氖",
+        "氘",
+        "氙",
+        "氚"
+      ]
+    },
+    {
+      "radical": "火",
+      "pinyin": "",
+      "meaning": "fire, flame; to burn; anger, rage",
+      "strokes": 4,
+      "examples": [
+        "灭",
+        "灯",
+        "灰",
+        "灶",
+        "灸"
+      ]
+    },
+    {
+      "radical": "灬",
+      "pinyin": "",
+      "meaning": "fire",
+      "strokes": 4,
+      "examples": [
+        "点",
+        "為",
+        "烈",
+        "烏",
+        "烝"
+      ]
+    },
+    {
+      "radical": "爪",
+      "pinyin": "",
+      "meaning": "claws, nails, talons",
+      "strokes": 4,
+      "examples": [
+        "爬"
+      ]
+    },
+    {
+      "radical": "爫",
+      "pinyin": "",
+      "meaning": "claws, nails, talons",
+      "strokes": 4,
+      "examples": [
+        "爭",
+        "爯",
+        "爰",
+        "爱",
+        "爵"
+      ]
+    },
+    {
+      "radical": "父",
+      "pinyin": "",
+      "meaning": "father, dad",
+      "strokes": 4,
+      "examples": [
+        "爷",
+        "爸",
+        "爹",
+        "爺"
+      ]
+    },
+    {
+      "radical": "爻",
+      "pinyin": "",
+      "meaning": "diagrams for divination",
+      "strokes": 4,
+      "examples": [
+        "爽",
+        "爾"
+      ]
+    },
+    {
+      "radical": "爿",
+      "pinyin": "",
+      "meaning": "half of a tree trunk",
+      "strokes": 4,
+      "examples": [
+        "牆"
+      ]
+    },
+    {
+      "radical": "片",
+      "pinyin": "",
+      "meaning": "slice, splinter; page, strip",
+      "strokes": 4,
+      "examples": [
+        "版",
+        "牌",
+        "牍",
+        "牒",
+        "牖"
+      ]
+    },
+    {
+      "radical": "牙",
+      "pinyin": "",
+      "meaning": "tooth, molar; fang, tusk; serrated",
+      "strokes": 4,
+      "examples": [
+        "牚"
+      ]
+    },
+    {
+      "radical": "牛",
+      "pinyin": "",
+      "meaning": "ox, cow, bull",
+      "strokes": 4,
+      "examples": [
+        "牝",
+        "牟",
+        "牠",
+        "牡",
+        "牢"
+      ]
+    },
+    {
+      "radical": "王",
+      "pinyin": "",
+      "meaning": "king, ruler; royal; surname",
+      "strokes": 4,
+      "examples": [
+        "玎",
+        "玑",
+        "玓",
+        "玖",
+        "玗"
+      ]
+    },
+    {
+      "radical": "瓦",
+      "pinyin": "",
+      "meaning": "tile; pottery, earthenware",
+      "strokes": 4,
+      "examples": [
+        "瓮",
+        "瓯",
+        "瓴",
+        "瓶",
+        "瓷"
+      ]
+    },
+    {
+      "radical": "礻",
+      "pinyin": "",
+      "meaning": "spirit",
+      "strokes": 4,
+      "examples": [
+        "礼",
+        "社",
+        "祀",
+        "祁",
+        "祆"
+      ]
+    },
+    {
+      "radical": "罓",
+      "pinyin": "",
+      "meaning": "net, network",
+      "strokes": 4,
+      "examples": []
+    },
+    {
+      "radical": "耂",
+      "pinyin": "",
+      "meaning": "old, aged; experienced",
+      "strokes": 4,
+      "examples": [
+        "考",
+        "者"
+      ]
+    },
+    {
+      "radical": "肀",
+      "pinyin": "",
+      "meaning": "pen",
+      "strokes": 4,
+      "examples": [
+        "肃",
+        "肅"
+      ]
+    },
+    {
+      "radical": "见",
+      "pinyin": "",
+      "meaning": "to see, to observe, to meet, to appear",
+      "strokes": 4,
+      "examples": [
+        "观",
+        "规",
+        "视",
+        "觇",
+        "览"
+      ]
+    },
+    {
+      "radical": "贝",
+      "pinyin": "",
+      "meaning": "sea shell; money, currency",
+      "strokes": 4,
+      "examples": [
+        "负",
+        "贡",
+        "财",
+        "责",
+        "贤"
+      ]
+    },
+    {
+      "radical": "阝",
+      "pinyin": "",
+      "meaning": "surname",
+      "strokes": 4,
+      "examples": [
+        "邓",
+        "邗",
+        "邘",
+        "邙",
+        "邛"
+      ]
+    },
+    {
+      "radical": "长",
+      "pinyin": "",
+      "meaning": "long, lasting; to excel in",
+      "strokes": 4,
+      "examples": []
+    },
+    {
+      "radical": "韦",
+      "pinyin": "",
+      "meaning": "tanned leather; surname",
+      "strokes": 4,
+      "examples": [
+        "韧",
+        "韩",
+        "韪",
+        "韫",
+        "韬"
+      ]
+    },
+    {
+      "radical": "风",
+      "pinyin": "",
+      "meaning": "wind; air; customs, manners; news",
+      "strokes": 4,
+      "examples": [
+        "飐",
+        "飑",
+        "飒",
+        "飓",
+        "飕"
+      ]
+    },
+    {
+      "radical": "龶",
+      "pinyin": "",
+      "meaning": "",
+      "strokes": 4,
+      "examples": []
+    },
+    {
+      "radical": "亻",
+      "pinyin": "",
+      "meaning": "a tribe of savages in South China",
+      "strokes": 5,
+      "examples": [
+        "㐌",
+        "亿",
+        "什",
+        "仁",
+        "仂"
+      ]
+    },
+    {
+      "radical": "彡",
+      "pinyin": "",
+      "meaning": "bushy, black hair; variant of 鬒",
+      "strokes": 5,
+      "examples": [
+        "㐱",
+        "形",
+        "彤",
+        "彥",
+        "彦"
+      ]
+    },
+    {
+      "radical": "己",
+      "pinyin": "",
+      "meaning": "according to, for, with; to use",
+      "strokes": 5,
+      "examples": [
+        "㠯",
+        "已",
+        "巹"
+      ]
+    },
+    {
+      "radical": "廴",
+      "pinyin": "",
+      "meaning": "to walk slowly; to stroll; to ramble",
+      "strokes": 5,
+      "examples": [
+        "㢟",
+        "延",
+        "廷",
+        "建"
+      ]
+    },
+    {
+      "radical": "马",
+      "pinyin": "",
+      "meaning": "to gallop; by dint of; surname",
+      "strokes": 5,
+      "examples": [
+        "冯",
+        "蓦",
+        "驭",
+        "驮",
+        "驯"
+      ]
+    },
+    {
+      "radical": "夂",
+      "pinyin": "",
+      "meaning": "place, locale; department",
+      "strokes": 5,
+      "examples": [
+        "処",
+        "务",
+        "夃",
+        "处",
+        "夅"
+      ]
+    },
+    {
+      "radical": "彐",
+      "pinyin": "",
+      "meaning": "to mow, to cut grass; hay, fodder",
+      "strokes": 5,
+      "examples": [
+        "刍",
+        "寻",
+        "归",
+        "录",
+        "彗"
+      ]
+    },
+    {
+      "radical": "口",
+      "pinyin": "",
+      "meaning": "a chemical compound; divination; to consider",
+      "strokes": 5,
+      "examples": [
+        "卟",
+        "古",
+        "句",
+        "另",
+        "叨"
+      ]
+    },
+    {
+      "radical": "歺",
+      "pinyin": "",
+      "meaning": "evil, depraved, wicked",
+      "strokes": 5,
+      "examples": []
+    },
+    {
+      "radical": "母",
+      "pinyin": "",
+      "meaning": "mother; female elders; female",
+      "strokes": 5,
+      "examples": [
+        "每",
+        "毒",
+        "毓"
+      ]
+    },
+    {
+      "radical": "民",
+      "pinyin": "",
+      "meaning": "citizens, subjects; a nation's people",
+      "strokes": 5,
+      "examples": [
+        "氓"
+      ]
+    },
+    {
+      "radical": "氺",
+      "pinyin": "",
+      "meaning": "",
+      "strokes": 5,
+      "examples": [
+        "求",
+        "泰",
+        "滕"
+      ]
+    },
+    {
+      "radical": "玄",
+      "pinyin": "",
+      "meaning": "deep, profound, abstruse",
+      "strokes": 5,
+      "examples": [
+        "率"
+      ]
+    },
+    {
+      "radical": "玉",
+      "pinyin": "",
+      "meaning": "jade, gem, precious stone",
+      "strokes": 5,
+      "examples": [
+        "玺",
+        "瑩",
+        "璧",
+        "璺",
+        "璽"
+      ]
+    },
+    {
+      "radical": "甘",
+      "pinyin": "",
+      "meaning": "sweet, tasty; willing",
+      "strokes": 5,
+      "examples": [
+        "甚",
+        "甜"
+      ]
+    },
+    {
+      "radical": "生",
+      "pinyin": "",
+      "meaning": "life, lifetime; birth; growth",
+      "strokes": 5,
+      "examples": [
+        "產",
+        "産",
+        "甤",
+        "甥",
+        "甦"
+      ]
+    },
+    {
+      "radical": "用",
+      "pinyin": "",
+      "meaning": "to use, to employ, to apply; use",
+      "strokes": 5,
+      "examples": [
+        "甩",
+        "甪",
+        "甫",
+        "甬",
+        "甭"
+      ]
+    },
+    {
+      "radical": "疋",
+      "pinyin": "",
+      "meaning": "roll, bolt of cloth; foot",
+      "strokes": 5,
+      "examples": [
+        "疌",
+        "疏",
+        "疐",
+        "疑"
+      ]
+    },
+    {
+      "radical": "疒",
+      "pinyin": "",
+      "meaning": "sickness, disease",
+      "strokes": 5,
+      "examples": [
+        "疔",
+        "疖",
+        "疗",
+        "疙",
+        "疚"
+      ]
+    },
+    {
+      "radical": "癶",
+      "pinyin": "",
+      "meaning": "legs",
+      "strokes": 5,
+      "examples": [
+        "癸",
+        "登",
+        "發"
+      ]
+    },
+    {
+      "radical": "皮",
+      "pinyin": "",
+      "meaning": "skin, hide, fur, feathers",
+      "strokes": 5,
+      "examples": [
+        "皰",
+        "皱",
+        "皲",
+        "皴",
+        "皺"
+      ]
+    },
+    {
+      "radical": "目",
+      "pinyin": "",
+      "meaning": "eye; to look, to see; division, topic",
+      "strokes": 5,
+      "examples": [
+        "盯",
+        "盱",
+        "盲",
+        "直",
+        "相"
+      ]
+    },
+    {
+      "radical": "矛",
+      "pinyin": "",
+      "meaning": "spear, lance",
+      "strokes": 5,
+      "examples": [
+        "矜",
+        "矞"
+      ]
+    },
+    {
+      "radical": "矢",
+      "pinyin": "",
+      "meaning": "arrow, dart; to vow, to swear",
+      "strokes": 5,
+      "examples": [
+        "矣",
+        "知",
+        "矦",
+        "矧",
+        "矩"
+      ]
+    },
+    {
+      "radical": "石",
+      "pinyin": "",
+      "meaning": "stone, rock, mineral",
+      "strokes": 5,
+      "examples": [
+        "矶",
+        "矸",
+        "矻",
+        "矽",
+        "矾"
+      ]
+    },
+    {
+      "radical": "示",
+      "pinyin": "",
+      "meaning": "altar; ceremony; to show, to demonstrate",
+      "strokes": 5,
+      "examples": [
+        "祘",
+        "祟",
+        "票",
+        "祭",
+        "禀"
+      ]
+    },
+    {
+      "radical": "禸",
+      "pinyin": "",
+      "meaning": "rump",
+      "strokes": 5,
+      "examples": [
+        "禹",
+        "禺",
+        "离",
+        "禼",
+        "禽"
+      ]
+    },
+    {
+      "radical": "禾",
+      "pinyin": "",
+      "meaning": "cereal, grain, rice; plant, stalk",
+      "strokes": 5,
+      "examples": [
+        "禿",
+        "秀",
+        "私",
+        "秃",
+        "秆"
+      ]
+    },
+    {
+      "radical": "穴",
+      "pinyin": "",
+      "meaning": "cave, den, hole",
+      "strokes": 5,
+      "examples": [
+        "穵",
+        "究",
+        "穷",
+        "穸",
+        "穹"
+      ]
+    },
+    {
+      "radical": "衤",
+      "pinyin": "",
+      "meaning": "cloth",
+      "strokes": 5,
+      "examples": [
+        "补",
+        "衩",
+        "衫",
+        "衬",
+        "衲"
+      ]
+    },
+    {
+      "radical": "钅",
+      "pinyin": "",
+      "meaning": "gold, metal; money",
+      "strokes": 5,
+      "examples": [
+        "钆",
+        "钇",
+        "针",
+        "钉",
+        "钊"
+      ]
+    },
+    {
+      "radical": "鸟",
+      "pinyin": "",
+      "meaning": "bird",
+      "strokes": 5,
+      "examples": [
+        "鸠",
+        "鸡",
+        "鸢",
+        "鸥",
+        "鸦"
+      ]
+    },
+    {
+      "radical": "⺮",
+      "pinyin": "",
+      "meaning": "bamboo; flute",
+      "strokes": 6,
+      "examples": [
+        "劄",
+        "竺",
+        "竽",
+        "竿",
+        "笃"
+      ]
+    },
+    {
+      "radical": "尸",
+      "pinyin": "",
+      "meaning": "old form of 隱",
+      "strokes": 6,
+      "examples": [
+        "㐆",
+        "尹",
+        "尺",
+        "尻",
+        "尼"
+      ]
+    },
+    {
+      "radical": "刀",
+      "pinyin": "",
+      "meaning": "to engrave; a written contract or agreement",
+      "strokes": 6,
+      "examples": [
+        "㓞",
+        "刃",
+        "刅",
+        "分",
+        "切"
+      ]
+    },
+    {
+      "radical": "大",
+      "pinyin": "",
+      "meaning": "tall, lofty; proud, stately",
+      "strokes": 6,
+      "examples": [
+        "乔",
+        "买",
+        "天",
+        "太",
+        "夫"
+      ]
+    },
+    {
+      "radical": "车",
+      "pinyin": "",
+      "meaning": "army, military; soldiers, troops",
+      "strokes": 6,
+      "examples": [
+        "军",
+        "斩",
+        "舆",
+        "轧",
+        "轨"
+      ]
+    },
+    {
+      "radical": "水",
+      "pinyin": "",
+      "meaning": "ditch; pool",
+      "strokes": 6,
+      "examples": [
+        "凼",
+        "氶",
+        "永",
+        "汆",
+        "汞"
+      ]
+    },
+    {
+      "radical": "干",
+      "pinyin": "",
+      "meaning": "year; anniversary; a person's age",
+      "strokes": 6,
+      "examples": [
+        "年",
+        "并",
+        "幸",
+        "幹",
+        "顸"
+      ]
+    },
+    {
+      "radical": "竹",
+      "pinyin": "",
+      "meaning": "bamboo; flute",
+      "strokes": 6,
+      "examples": []
+    },
+    {
+      "radical": "米",
+      "pinyin": "",
+      "meaning": "rice, millet, grain",
+      "strokes": 6,
+      "examples": [
+        "籴",
+        "籼",
+        "籽",
+        "粉",
+        "粑"
+      ]
+    },
+    {
+      "radical": "糸",
+      "pinyin": "",
+      "meaning": "silk; thread",
+      "strokes": 6,
+      "examples": [
+        "系",
+        "紊",
+        "素",
+        "索",
+        "紥"
+      ]
+    },
+    {
+      "radical": "网",
+      "pinyin": "",
+      "meaning": "net; network",
+      "strokes": 6,
+      "examples": []
+    },
+    {
+      "radical": "羊",
+      "pinyin": "",
+      "meaning": "sheep, goat",
+      "strokes": 6,
+      "examples": [
+        "羌",
+        "羍",
+        "美",
+        "羔",
+        "羕"
+      ]
+    },
+    {
+      "radical": "羽",
+      "pinyin": "",
+      "meaning": "feather, plume; wings",
+      "strokes": 6,
+      "examples": [
+        "羿",
+        "翁",
+        "翅",
+        "翊",
+        "翌"
+      ]
+    },
+    {
+      "radical": "老",
+      "pinyin": "",
+      "meaning": "old, aged; experienced",
+      "strokes": 6,
+      "examples": [
+        "耄",
+        "耆",
+        "耋"
+      ]
+    },
+    {
+      "radical": "而",
+      "pinyin": "",
+      "meaning": "and, and then, and yet; but",
+      "strokes": 6,
+      "examples": [
+        "耍",
+        "耐",
+        "耑"
+      ]
+    },
+    {
+      "radical": "耒",
+      "pinyin": "",
+      "meaning": "plow",
+      "strokes": 6,
+      "examples": [
+        "耔",
+        "耕",
+        "耖",
+        "耗",
+        "耘"
+      ]
+    },
+    {
+      "radical": "耳",
+      "pinyin": "",
+      "meaning": "ear; to hear, to hear of; handle",
+      "strokes": 6,
+      "examples": [
+        "耴",
+        "耵",
+        "耶",
+        "耷",
+        "耸"
+      ]
+    },
+    {
+      "radical": "聿",
+      "pinyin": "",
+      "meaning": "writing brush, pencil; thereupon",
+      "strokes": 6,
+      "examples": [
+        "肄",
+        "肆",
+        "肇"
+      ]
+    },
+    {
+      "radical": "肉",
+      "pinyin": "",
+      "meaning": "meat; flesh",
+      "strokes": 6,
+      "examples": [
+        "胬",
+        "脔",
+        "腐",
+        "臠"
+      ]
+    },
+    {
+      "radical": "自",
+      "pinyin": "",
+      "meaning": "self; private, personal; from",
+      "strokes": 6,
+      "examples": [
+        "臬",
+        "臭",
+        "臱",
+        "臲"
+      ]
+    },
+    {
+      "radical": "至",
+      "pinyin": "",
+      "meaning": "reach, arrive; very, extremely",
+      "strokes": 6,
+      "examples": [
+        "致",
+        "臺",
+        "臻"
+      ]
+    },
+    {
+      "radical": "臼",
+      "pinyin": "",
+      "meaning": "mortar; bone joint socket",
+      "strokes": 6,
+      "examples": [
+        "臽",
+        "臾",
+        "臿",
+        "舀",
+        "舁"
+      ]
+    },
+    {
+      "radical": "舛",
+      "pinyin": "",
+      "meaning": "mistaken; to be contrary; to deviate",
+      "strokes": 6,
+      "examples": [
+        "舜",
+        "舞"
+      ]
+    },
+    {
+      "radical": "舟",
+      "pinyin": "",
+      "meaning": "boat, ship",
+      "strokes": 6,
+      "examples": [
+        "舡",
+        "舢",
+        "舣",
+        "舨",
+        "航"
+      ]
+    },
+    {
+      "radical": "艮",
+      "pinyin": "",
+      "meaning": "blunt; tough, chewy",
+      "strokes": 6,
+      "examples": [
+        "良",
+        "艱"
+      ]
+    },
+    {
+      "radical": "色",
+      "pinyin": "",
+      "meaning": "color, tint, hue, shade; beauty, form; sex",
+      "strokes": 6,
+      "examples": [
+        "艳",
+        "艴",
+        "艷"
+      ]
+    },
+    {
+      "radical": "艸",
+      "pinyin": "",
+      "meaning": "grass",
+      "strokes": 6,
+      "examples": [
+        "芻"
+      ]
+    },
+    {
+      "radical": "虍",
+      "pinyin": "",
+      "meaning": "tiger",
+      "strokes": 6,
+      "examples": [
+        "虏",
+        "虐",
+        "虔",
+        "處",
+        "虖"
+      ]
+    },
+    {
+      "radical": "虫",
+      "pinyin": "",
+      "meaning": "insect, worm; mollusk",
+      "strokes": 6,
+      "examples": [
+        "虬",
+        "虮",
+        "虰",
+        "虱",
+        "虹"
+      ]
+    },
+    {
+      "radical": "血",
+      "pinyin": "",
+      "meaning": "blood",
+      "strokes": 6,
+      "examples": [
+        "衄",
+        "衅",
+        "衆",
+        "衊"
+      ]
+    },
+    {
+      "radical": "行",
+      "pinyin": "",
+      "meaning": "to go, to walk, to move; professional",
+      "strokes": 6,
+      "examples": [
+        "衍",
+        "術",
+        "衕",
+        "衖",
+        "街"
+      ]
+    },
+    {
+      "radical": "衣",
+      "pinyin": "",
+      "meaning": "cloth; clothes, apparel; dress, coat",
+      "strokes": 6,
+      "examples": [
+        "表",
+        "衮",
+        "衰",
+        "衷",
+        "衾"
+      ]
+    },
+    {
+      "radical": "襾",
+      "pinyin": "",
+      "meaning": "cover",
+      "strokes": 6,
+      "examples": []
+    },
+    {
+      "radical": "西",
+      "pinyin": "",
+      "meaning": "west, western, westward",
+      "strokes": 6,
+      "examples": []
+    },
+    {
+      "radical": "页",
+      "pinyin": "",
+      "meaning": "page, sheet, leaf",
+      "strokes": 6,
+      "examples": [
+        "顶",
+        "顷",
+        "项",
+        "顺",
+        "顽"
+      ]
+    },
+    {
+      "radical": "齐",
+      "pinyin": "",
+      "meaning": "even, uniform, of equal length",
+      "strokes": 6,
+      "examples": [
+        "齑"
+      ]
+    },
+    {
+      "radical": "川",
+      "pinyin": "",
+      "meaning": "pennant; wild, barren, uncultivated",
+      "strokes": 7,
+      "examples": [
+        "㐬",
+        "州"
+      ]
+    },
+    {
+      "radical": "氵",
+      "pinyin": "",
+      "meaning": "saliva, spittle",
+      "strokes": 7,
+      "examples": [
+        "㳄",
+        "氾",
+        "氿",
+        "汀",
+        "汁"
+      ]
+    },
+    {
+      "radical": "卤",
+      "pinyin": "",
+      "meaning": "salt",
+      "strokes": 7,
+      "examples": [
+        "鹾"
+      ]
+    },
+    {
+      "radical": "犬",
+      "pinyin": "",
+      "meaning": "shaggy dog; striped, variegated",
+      "strokes": 7,
+      "examples": [
+        "尨",
+        "犮",
+        "状",
+        "狀",
+        "狊"
+      ]
+    },
+    {
+      "radical": "見",
+      "pinyin": "",
+      "meaning": "to see, to observe, to meet, to appear",
+      "strokes": 7,
+      "examples": [
+        "規",
+        "覓",
+        "視",
+        "覘",
+        "覡"
+      ]
+    },
+    {
+      "radical": "角",
+      "pinyin": "",
+      "meaning": "angle, corner; horn, horn-shaped",
+      "strokes": 7,
+      "examples": [
+        "觖",
+        "觚",
+        "觜",
+        "觞",
+        "解"
+      ]
+    },
+    {
+      "radical": "言",
+      "pinyin": "",
+      "meaning": "words, speech; to speak, to say",
+      "strokes": 7,
+      "examples": [
+        "訂",
+        "訃",
+        "訇",
+        "計",
+        "訊"
+      ]
+    },
+    {
+      "radical": "訁",
+      "pinyin": "",
+      "meaning": "words, speech; to speak, to say",
+      "strokes": 7,
+      "examples": []
+    },
+    {
+      "radical": "豆",
+      "pinyin": "",
+      "meaning": "beans, peas; bean-shaped",
+      "strokes": 7,
+      "examples": [
+        "豇",
+        "豈",
+        "豉",
+        "豊",
+        "豌"
+      ]
+    },
+    {
+      "radical": "豸",
+      "pinyin": "",
+      "meaning": "badger; legendary beast",
+      "strokes": 7,
+      "examples": [
+        "豹",
+        "豺",
+        "豻",
+        "貂",
+        "貅"
+      ]
+    },
+    {
+      "radical": "貝",
+      "pinyin": "",
+      "meaning": "sea shell; money, currency",
+      "strokes": 7,
+      "examples": [
+        "貞",
+        "負",
+        "財",
+        "貢",
+        "貧"
+      ]
+    },
+    {
+      "radical": "赤",
+      "pinyin": "",
+      "meaning": "red, scarlet; blushing; bare, naked",
+      "strokes": 7,
+      "examples": [
+        "赦",
+        "赧",
+        "赫",
+        "赭"
+      ]
+    },
+    {
+      "radical": "走",
+      "pinyin": "",
+      "meaning": "to walk, to run, to flee",
+      "strokes": 7,
+      "examples": [
+        "赳",
+        "赴",
+        "赵",
+        "赶",
+        "起"
+      ]
+    },
+    {
+      "radical": "身",
+      "pinyin": "",
+      "meaning": "body, torso; person; pregnancy",
+      "strokes": 7,
+      "examples": [
+        "躬",
+        "躯",
+        "躲",
+        "躺",
+        "軀"
+      ]
+    },
+    {
+      "radical": "車",
+      "pinyin": "",
+      "meaning": "cart, vehicle; to move in a cart",
+      "strokes": 7,
+      "examples": [
+        "軋",
+        "軌",
+        "軍",
+        "軎",
+        "軒"
+      ]
+    },
+    {
+      "radical": "辛",
+      "pinyin": "",
+      "meaning": "bitter; toilsome, laborious; 8th heavenly stem",
+      "strokes": 7,
+      "examples": [
+        "辜",
+        "辟",
+        "辣",
+        "辥",
+        "辦"
+      ]
+    },
+    {
+      "radical": "辰",
+      "pinyin": "",
+      "meaning": "early morning; fortune, good luck; 5th terrestrial branch",
+      "strokes": 7,
+      "examples": [
+        "辱",
+        "農"
+      ]
+    },
+    {
+      "radical": "辵",
+      "pinyin": "",
+      "meaning": "to walk; walking",
+      "strokes": 7,
+      "examples": []
+    },
+    {
+      "radical": "邑",
+      "pinyin": "",
+      "meaning": "area, district, city, state",
+      "strokes": 7,
+      "examples": [
+        "邕"
+      ]
+    },
+    {
+      "radical": "酉",
+      "pinyin": "",
+      "meaning": "wine; wine vessel; chemical",
+      "strokes": 7,
+      "examples": [
+        "酊",
+        "酋",
+        "酌",
+        "配",
+        "酎"
+      ]
+    },
+    {
+      "radical": "釆",
+      "pinyin": "",
+      "meaning": "to distinguish; to pick, to gather, to collect",
+      "strokes": 7,
+      "examples": [
+        "采",
+        "釉",
+        "释",
+        "釋"
+      ]
+    },
+    {
+      "radical": "里",
+      "pinyin": "",
+      "meaning": "unit of distance equal to 0.5km; village; lane",
+      "strokes": 7,
+      "examples": [
+        "重",
+        "野",
+        "量",
+        "釐"
+      ]
+    },
+    {
+      "radical": "镸",
+      "pinyin": "",
+      "meaning": "long; lasting; to excel in",
+      "strokes": 7,
+      "examples": []
+    },
+    {
+      "radical": "麦",
+      "pinyin": "",
+      "meaning": "wheat, barley, oats",
+      "strokes": 7,
+      "examples": [
+        "麴",
+        "麸"
+      ]
+    },
+    {
+      "radical": "亠",
+      "pinyin": "",
+      "meaning": "granary; to stockpile, to supply",
+      "strokes": 8,
+      "examples": [
+        "㐭",
+        "亡",
+        "亢",
+        "交",
+        "亥"
+      ]
+    },
+    {
+      "radical": "寸",
+      "pinyin": "",
+      "meaning": "to obtain, to get, to acquire; ancient form of 得",
+      "strokes": 8,
+      "examples": [
+        "㝵",
+        "对",
+        "寺",
+        "导",
+        "寽"
+      ]
+    },
+    {
+      "radical": "扌",
+      "pinyin": "",
+      "meaning": "to grasp, to hold, to pull at",
+      "strokes": 8,
+      "examples": [
+        "㧜",
+        "才",
+        "扎",
+        "扑",
+        "扒"
+      ]
+    },
+    {
+      "radical": "十",
+      "pinyin": "",
+      "meaning": "mourning; mourn; funeral",
+      "strokes": 8,
+      "examples": [
+        "丧",
+        "卂",
+        "千",
+        "卄",
+        "卅"
+      ]
+    },
+    {
+      "radical": "臣",
+      "pinyin": "",
+      "meaning": "to crouch; to lie down",
+      "strokes": 8,
+      "examples": [
+        "卧",
+        "臤",
+        "臥",
+        "臧",
+        "臨"
+      ]
+    },
+    {
+      "radical": "龙",
+      "pinyin": "",
+      "meaning": "grave, mound; furrow, ridge",
+      "strokes": 8,
+      "examples": [
+        "垄",
+        "砻",
+        "袭",
+        "龚",
+        "龛"
+      ]
+    },
+    {
+      "radical": "户",
+      "pinyin": "",
+      "meaning": "to live, to reside; to dwell; to sit",
+      "strokes": 8,
+      "examples": [
+        "居",
+        "屏",
+        "戶",
+        "戽",
+        "戾"
+      ]
+    },
+    {
+      "radical": "羋",
+      "pinyin": "",
+      "meaning": "the bleating of sheep; surname",
+      "strokes": 8,
+      "examples": [
+        "芈"
+      ]
+    },
+    {
+      "radical": "虎",
+      "pinyin": "",
+      "meaning": "tiger; brave, fierce; surname",
+      "strokes": 8,
+      "examples": [
+        "虒",
+        "號",
+        "虢"
+      ]
+    },
+    {
+      "radical": "金",
+      "pinyin": "",
+      "meaning": "gold, metal; money",
+      "strokes": 8,
+      "examples": [
+        "釜",
+        "鉴",
+        "銎",
+        "銜",
+        "銮"
+      ]
+    },
+    {
+      "radical": "釒",
+      "pinyin": "",
+      "meaning": "gold, metal; money",
+      "strokes": 8,
+      "examples": [
+        "釗",
+        "釘",
+        "針",
+        "釣",
+        "釦"
+      ]
+    },
+    {
+      "radical": "長",
+      "pinyin": "",
+      "meaning": "long, lasting; to excel in",
+      "strokes": 8,
+      "examples": []
+    },
+    {
+      "radical": "門",
+      "pinyin": "",
+      "meaning": "gate, door, entrance, opening",
+      "strokes": 8,
+      "examples": [
+        "閂",
+        "閃",
+        "閉",
+        "開",
+        "閎"
+      ]
+    },
+    {
+      "radical": "阜",
+      "pinyin": "",
+      "meaning": "mound; abundant, ample, numerous",
+      "strokes": 8,
+      "examples": []
+    },
+    {
+      "radical": "隶",
+      "pinyin": "",
+      "meaning": "subservient; servant",
+      "strokes": 8,
+      "examples": [
+        "隸"
+      ]
+    },
+    {
+      "radical": "雨",
+      "pinyin": "",
+      "meaning": "rain",
+      "strokes": 8,
+      "examples": [
+        "雩",
+        "雪",
+        "雯",
+        "雲",
+        "雳"
+      ]
+    },
+    {
+      "radical": "靑",
+      "pinyin": "",
+      "meaning": "blue",
+      "strokes": 8,
+      "examples": []
+    },
+    {
+      "radical": "青",
+      "pinyin": "",
+      "meaning": "nature's color; blue, green, black; young",
+      "strokes": 8,
+      "examples": [
+        "靓",
+        "靖",
+        "静",
+        "靚",
+        "靛"
+      ]
+    },
+    {
+      "radical": "飠",
+      "pinyin": "",
+      "meaning": "food; to eat",
+      "strokes": 8,
+      "examples": [
+        "飢",
+        "飩",
+        "飪",
+        "飫",
+        "飭"
+      ]
+    },
+    {
+      "radical": "黾",
+      "pinyin": "",
+      "meaning": "frog, toad; to strive, to endeavor",
+      "strokes": 8,
+      "examples": [
+        "鼍"
+      ]
+    },
+    {
+      "radical": "齿",
+      "pinyin": "",
+      "meaning": "teeth; gears, cogs; age",
+      "strokes": 8,
+      "examples": [
+        "龀",
+        "龃",
+        "龄",
+        "龅",
+        "龆"
+      ]
+    },
+    {
+      "radical": "豕",
+      "pinyin": "",
+      "meaning": "to obey, to follow; year, season, harvest",
+      "strokes": 9,
+      "examples": [
+        "㒸",
+        "豖",
+        "豙",
+        "豚",
+        "象"
+      ]
+    },
+    {
+      "radical": "比",
+      "pinyin": "",
+      "meaning": "rabbit, hare",
+      "strokes": 9,
+      "examples": [
+        "㲋",
+        "毕",
+        "毖",
+        "毙",
+        "毚"
+      ]
+    },
+    {
+      "radical": "皿",
+      "pinyin": "",
+      "meaning": "small bowl, small basin",
+      "strokes": 9,
+      "examples": [
+        "㿽",
+        "盂",
+        "盃",
+        "盅",
+        "盆"
+      ]
+    },
+    {
+      "radical": "立",
+      "pinyin": "",
+      "meaning": "relatives, parents; intimate; the hazelnut tree",
+      "strokes": 9,
+      "examples": [
+        "亲",
+        "竖",
+        "竘",
+        "站",
+        "竞"
+      ]
+    },
+    {
+      "radical": "田",
+      "pinyin": "",
+      "meaning": "to aid, to help; to adjoin, to connect",
+      "strokes": 9,
+      "examples": [
+        "毗",
+        "由",
+        "甲",
+        "申",
+        "甴"
+      ]
+    },
+    {
+      "radical": "饣",
+      "pinyin": "",
+      "meaning": "to nibble at, to erode; an eclipse",
+      "strokes": 9,
+      "examples": [
+        "蚀",
+        "饥",
+        "饧",
+        "饨",
+        "饩"
+      ]
+    },
+    {
+      "radical": "面",
+      "pinyin": "",
+      "meaning": "face; surface, side; plane, dimension",
+      "strokes": 9,
+      "examples": [
+        "靦"
+      ]
+    },
+    {
+      "radical": "革",
+      "pinyin": "",
+      "meaning": "leather, animal hide; to reform; to remove",
+      "strokes": 9,
+      "examples": [
+        "靳",
+        "靴",
+        "靶",
+        "靼",
+        "鞅"
+      ]
+    },
+    {
+      "radical": "韋",
+      "pinyin": "",
+      "meaning": "tanned leather; surname",
+      "strokes": 9,
+      "examples": [
+        "韌",
+        "韓",
+        "韙",
+        "韜"
+      ]
+    },
+    {
+      "radical": "韭",
+      "pinyin": "",
+      "meaning": "scallion, leek, chive",
+      "strokes": 9,
+      "examples": [
+        "韰",
+        "韱"
+      ]
+    },
+    {
+      "radical": "音",
+      "pinyin": "",
+      "meaning": "sound, tone, pitch, pronunciation",
+      "strokes": 9,
+      "examples": [
+        "韵",
+        "韶",
+        "韻",
+        "響",
+        "黯"
+      ]
+    },
+    {
+      "radical": "頁",
+      "pinyin": "",
+      "meaning": "page, sheet, leaf",
+      "strokes": 9,
+      "examples": [
+        "頂",
+        "頃",
+        "項",
+        "順",
+        "須"
+      ]
+    },
+    {
+      "radical": "風",
+      "pinyin": "",
+      "meaning": "wind; air; customs, manners; news",
+      "strokes": 9,
+      "examples": [
+        "颭",
+        "颯",
+        "颱",
+        "颳",
+        "颶"
+      ]
+    },
+    {
+      "radical": "飛",
+      "pinyin": "",
+      "meaning": "to fly, to dart; high",
+      "strokes": 9,
+      "examples": []
+    },
+    {
+      "radical": "食",
+      "pinyin": "",
+      "meaning": "food; to eat",
+      "strokes": 9,
+      "examples": [
+        "飧",
+        "飨",
+        "飬",
+        "養",
+        "餍"
+      ]
+    },
+    {
+      "radical": "首",
+      "pinyin": "",
+      "meaning": "chief, head, leader",
+      "strokes": 9,
+      "examples": [
+        "馗",
+        "馘"
+      ]
+    },
+    {
+      "radical": "香",
+      "pinyin": "",
+      "meaning": "incense; fragrant, aromatic",
+      "strokes": 9,
+      "examples": [
+        "馥",
+        "馨"
+      ]
+    },
+    {
+      "radical": "骨",
+      "pinyin": "",
+      "meaning": "bone; skeleton; frame, framework",
+      "strokes": 9,
+      "examples": [
+        "骯",
+        "骰",
+        "骱",
+        "骶",
+        "骷"
+      ]
+    },
+    {
+      "radical": "鬼",
+      "pinyin": "",
+      "meaning": "ghost; demon; sly, mischievous",
+      "strokes": 9,
+      "examples": [
+        "魁",
+        "魂",
+        "魃",
+        "魄",
+        "魅"
+      ]
+    },
+    {
+      "radical": "广",
+      "pinyin": "",
+      "meaning": "store, shop, living space",
+      "strokes": 10,
+      "examples": [
+        "㢆",
+        "平",
+        "庀",
+        "庄",
+        "庆"
+      ]
+    },
+    {
+      "radical": "瓜",
+      "pinyin": "",
+      "meaning": "melon patch; weary, feeble",
+      "strokes": 10,
+      "examples": [
+        "㼌",
+        "瓞",
+        "瓠",
+        "瓢",
+        "瓣"
+      ]
+    },
+    {
+      "radical": "缶",
+      "pinyin": "",
+      "meaning": "vase, pitcher, earthenware",
+      "strokes": 10,
+      "examples": [
+        "䍃",
+        "缸",
+        "缺",
+        "缽",
+        "罂"
+      ]
+    },
+    {
+      "radical": "舌",
+      "pinyin": "",
+      "meaning": "enemy, foe, rival; to match; to resist",
+      "strokes": 10,
+      "examples": [
+        "敌",
+        "舍",
+        "舐",
+        "舒",
+        "舔"
+      ]
+    },
+    {
+      "radical": "馬",
+      "pinyin": "",
+      "meaning": "horse; surname",
+      "strokes": 10,
+      "examples": [
+        "馭",
+        "馮",
+        "馱",
+        "馳",
+        "馴"
+      ]
+    },
+    {
+      "radical": "高",
+      "pinyin": "",
+      "meaning": "tall, lofty; high, elevated",
+      "strokes": 10,
+      "examples": []
+    },
+    {
+      "radical": "髟",
+      "pinyin": "",
+      "meaning": "long hair",
+      "strokes": 10,
+      "examples": [
+        "髡",
+        "髦",
+        "髫",
+        "髭",
+        "髮"
+      ]
+    },
+    {
+      "radical": "鬥",
+      "pinyin": "",
+      "meaning": "to struggle, to fight, to contend; measuring cup",
+      "strokes": 10,
+      "examples": [
+        "鬧",
+        "鬨",
+        "鬩",
+        "鬭",
+        "鬮"
+      ]
+    },
+    {
+      "radical": "鬯",
+      "pinyin": "",
+      "meaning": "sacrificial wine; unhindered",
+      "strokes": 10,
+      "examples": [
+        "鬱"
+      ]
+    },
+    {
+      "radical": "巾",
+      "pinyin": "",
+      "meaning": "average; equivalent",
+      "strokes": 11,
+      "examples": [
+        "㒼",
+        "巿",
+        "帀",
+        "币",
+        "市"
+      ]
+    },
+    {
+      "radical": "白",
+      "pinyin": "",
+      "meaning": "fine, delicate",
+      "strokes": 11,
+      "examples": [
+        "㣎",
+        "百",
+        "皂",
+        "皃",
+        "的"
+      ]
+    },
+    {
+      "radical": "覀",
+      "pinyin": "",
+      "meaning": "to fly, to move, to change",
+      "strokes": 11,
+      "examples": [
+        "䙴",
+        "要",
+        "覃",
+        "覆",
+        "覈"
+      ]
+    },
+    {
+      "radical": "罒",
+      "pinyin": "",
+      "meaning": "long-winded, verbose",
+      "strokes": 11,
+      "examples": [
+        "啰",
+        "罗",
+        "罘",
+        "罚",
+        "罟"
+      ]
+    },
+    {
+      "radical": "鹵",
+      "pinyin": "",
+      "meaning": "salt",
+      "strokes": 11,
+      "examples": [
+        "鹹",
+        "鹼",
+        "鹽"
+      ]
+    },
+    {
+      "radical": "麥",
+      "pinyin": "",
+      "meaning": "wheat, barley, oats",
+      "strokes": 11,
+      "examples": [
+        "麩",
+        "麯",
+        "麵"
+      ]
+    },
+    {
+      "radical": "麻",
+      "pinyin": "",
+      "meaning": "hemp, flax, sesame; numb",
+      "strokes": 11,
+      "examples": [
+        "麼",
+        "麽",
+        "麾",
+        "麿"
+      ]
+    },
+    {
+      "radical": "黄",
+      "pinyin": "",
+      "meaning": "yellow; surname",
+      "strokes": 11,
+      "examples": [
+        "黉"
+      ]
+    },
+    {
+      "radical": "非",
+      "pinyin": "",
+      "meaning": "generation, lifetime; contemporary",
+      "strokes": 12,
+      "examples": [
+        "辈",
+        "靠",
+        "靡"
+      ]
+    },
+    {
+      "radical": "黃",
+      "pinyin": "",
+      "meaning": "yellow; surname",
+      "strokes": 12,
+      "examples": []
+    },
+    {
+      "radical": "黍",
+      "pinyin": "",
+      "meaning": "broomcorn millet; glutinous millet",
+      "strokes": 12,
+      "examples": [
+        "黎",
+        "黏"
+      ]
+    },
+    {
+      "radical": "黑",
+      "pinyin": "",
+      "meaning": "black; dark; evil, sinister",
+      "strokes": 12,
+      "examples": [
+        "黔",
+        "默",
+        "黛",
+        "黜",
+        "黝"
+      ]
+    },
+    {
+      "radical": "黹",
+      "pinyin": "",
+      "meaning": "embroidery, needlework",
+      "strokes": 12,
+      "examples": [
+        "黻",
+        "黼"
+      ]
+    },
+    {
+      "radical": "龟",
+      "pinyin": "",
+      "meaning": "large turtle, sea turtle",
+      "strokes": 12,
+      "examples": [
+        "鼋"
+      ]
+    },
+    {
+      "radical": "鼎",
+      "pinyin": "",
+      "meaning": "large, three-legged bronze cauldron",
+      "strokes": 12,
+      "examples": [
+        "鼐"
+      ]
+    },
+    {
+      "radical": "隹",
+      "pinyin": "",
+      "meaning": "eagle, falcon, hawk",
+      "strokes": 13,
+      "examples": [
+        "䧹",
+        "隺",
+        "隻",
+        "隼",
+        "隽"
+      ]
+    },
+    {
+      "radical": "鹿",
+      "pinyin": "",
+      "meaning": "unicorn",
+      "strokes": 13,
+      "examples": [
+        "廌",
+        "麂",
+        "麃",
+        "麇",
+        "麈"
+      ]
+    },
+    {
+      "radical": "炏",
+      "pinyin": "",
+      "meaning": "alone, desolate; without friends or family",
+      "strokes": 13,
+      "examples": [
+        "煢",
+        "營"
+      ]
+    },
+    {
+      "radical": "鱼",
+      "pinyin": "",
+      "meaning": "to revive; to rise again",
+      "strokes": 13,
+      "examples": [
+        "稣",
+        "鱿",
+        "鲁",
+        "鲂",
+        "鲃"
+      ]
+    },
+    {
+      "radical": "黽",
+      "pinyin": "",
+      "meaning": "frog, toad; to strive, to endeavor",
+      "strokes": 13,
+      "examples": [
+        "黿",
+        "鼂",
+        "鼉"
+      ]
+    },
+    {
+      "radical": "鼓",
+      "pinyin": "",
+      "meaning": "drum; to beat, to strike; to rouse",
+      "strokes": 13,
+      "examples": [
+        "鼕",
+        "鼗",
+        "鼙"
+      ]
+    },
+    {
+      "radical": "鼠",
+      "pinyin": "",
+      "meaning": "rat, mouse",
+      "strokes": 13,
+      "examples": [
+        "鼢",
+        "鼩",
+        "鼬",
+        "鼯",
+        "鼱"
+      ]
+    },
+    {
+      "radical": "谷",
+      "pinyin": "",
+      "meaning": "gully, pool; a ditch carved by a torrential rain",
+      "strokes": 14,
+      "examples": [
+        "㕡",
+        "谿",
+        "豁"
+      ]
+    },
+    {
+      "radical": "纟",
+      "pinyin": "",
+      "meaning": "to continue; to carry on; to succeed, to inherit",
+      "strokes": 14,
+      "examples": [
+        "㡭",
+        "纠",
+        "纡",
+        "红",
+        "纣"
+      ]
+    },
+    {
+      "radical": "心",
+      "pinyin": "",
+      "meaning": "careful, prudent; compassionate; grieved; worried",
+      "strokes": 14,
+      "examples": [
+        "㥯",
+        "必",
+        "忌",
+        "忍",
+        "忐"
+      ]
+    },
+    {
+      "radical": "日",
+      "pinyin": "",
+      "meaning": "motes in a sunbeam; illustrious, bright",
+      "strokes": 14,
+      "examples": [
+        "㬎",
+        "旦",
+        "旧",
+        "旨",
+        "早"
+      ]
+    },
+    {
+      "radical": "鼻",
+      "pinyin": "",
+      "meaning": "nose; first",
+      "strokes": 14,
+      "examples": [
+        "鼽",
+        "鼾",
+        "齄"
+      ]
+    },
+    {
+      "radical": "齊",
+      "pinyin": "",
+      "meaning": "even, uniform, of equal length",
+      "strokes": 14,
+      "examples": [
+        "齋",
+        "齌",
+        "齎"
+      ]
+    },
+    {
+      "radical": "足",
+      "pinyin": "",
+      "meaning": "to meditate; to sit cross-legged",
+      "strokes": 15,
+      "examples": [
+        "䠀",
+        "趴",
+        "趵",
+        "趸",
+        "趺"
+      ]
+    },
+    {
+      "radical": "魚",
+      "pinyin": "",
+      "meaning": "shark; bonito",
+      "strokes": 15,
+      "examples": [
+        "䰾",
+        "魝",
+        "魠",
+        "魯",
+        "魷"
+      ]
+    },
+    {
+      "radical": "齒",
+      "pinyin": "",
+      "meaning": "teeth; gears, cogs; age",
+      "strokes": 15,
+      "examples": [
+        "齙",
+        "齜",
+        "齟",
+        "齡",
+        "齦"
+      ]
+    },
+    {
+      "radical": "鬲",
+      "pinyin": "",
+      "meaning": "to melt, to fuse; to blend, to harmonize",
+      "strokes": 16,
+      "examples": [
+        "融",
+        "鬳",
+        "鬻"
+      ]
+    },
+    {
+      "radical": "龍",
+      "pinyin": "",
+      "meaning": "dragon; symbol of the emperor",
+      "strokes": 16,
+      "examples": [
+        "龐",
+        "龔",
+        "龕"
+      ]
+    },
+    {
+      "radical": "龠",
+      "pinyin": "",
+      "meaning": "flute; pipe, ancient measure",
+      "strokes": 17,
+      "examples": [
+        "龥"
+      ]
+    },
+    {
+      "radical": "龜",
+      "pinyin": "",
+      "meaning": "turtle, tortoise; cuckold",
+      "strokes": 18,
+      "examples": []
+    },
+    {
+      "radical": "糹",
+      "pinyin": "",
+      "meaning": "chaos, distraction; to manage, to tie together",
+      "strokes": 19,
+      "examples": [
+        "䜌",
+        "糾",
+        "紀",
+        "紂",
+        "約"
+      ]
+    },
+    {
+      "radical": "艹",
+      "pinyin": "",
+      "meaning": "a kind of grass; a vegetable; nettle, Urtica",
+      "strokes": 20,
+      "examples": [
+        "䕭",
+        "兹",
+        "艺",
+        "艻",
+        "艽"
+      ]
+    },
+    {
+      "radical": "鳥",
+      "pinyin": "",
+      "meaning": "spoonbill, ibis; Threskiornidae",
+      "strokes": 24,
+      "examples": [
+        "䴉",
+        "鳧",
+        "鳩",
+        "鳳",
+        "鳴"
+      ]
+    }
+  ]
+}

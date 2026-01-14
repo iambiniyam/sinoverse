@@ -1,0 +1,1556 @@
+[
+  {
+    "simplified": "计算机",
+    "traditional": "計算機",
+    "pinyin": "jì suàn jī",
+    "english": "computer",
+    "category": "Hardware"
+  },
+  {
+    "simplified": "软件",
+    "traditional": "軟件",
+    "pinyin": "ruǎn jiàn",
+    "english": "software",
+    "category": "General"
+  },
+  {
+    "simplified": "硬件",
+    "traditional": "硬件",
+    "pinyin": "yìng jiàn",
+    "english": "hardware",
+    "category": "Hardware"
+  },
+  {
+    "simplified": "编程",
+    "traditional": "編程",
+    "pinyin": "biān chéng",
+    "english": "programming",
+    "category": "Development"
+  },
+  {
+    "simplified": "代码",
+    "traditional": "代碼",
+    "pinyin": "dài mǎ",
+    "english": "code",
+    "category": "Development"
+  },
+  {
+    "simplified": "数据库",
+    "traditional": "數據庫",
+    "pinyin": "shù jù kù",
+    "english": "database",
+    "category": "Database"
+  },
+  {
+    "simplified": "网络",
+    "traditional": "網絡",
+    "pinyin": "wǎng luò",
+    "english": "network",
+    "category": "Networking"
+  },
+  {
+    "simplified": "互联网",
+    "traditional": "互聯網",
+    "pinyin": "hù lián wǎng",
+    "english": "internet",
+    "category": "Networking"
+  },
+  {
+    "simplified": "服务器",
+    "traditional": "服務器",
+    "pinyin": "fú wù qì",
+    "english": "server",
+    "category": "Hardware"
+  },
+  {
+    "simplified": "客户端",
+    "traditional": "客戶端",
+    "pinyin": "kè hù duān",
+    "english": "client",
+    "category": "General"
+  },
+  {
+    "simplified": "算法",
+    "traditional": "算法",
+    "pinyin": "suàn fǎ",
+    "english": "algorithm",
+    "category": "Development"
+  },
+  {
+    "simplified": "人工智能",
+    "traditional": "人工智能",
+    "pinyin": "rén gōng zhì néng",
+    "english": "artificial intelligence (AI)",
+    "category": "AI/ML"
+  },
+  {
+    "simplified": "机器学习",
+    "traditional": "機器學習",
+    "pinyin": "jī qì xué xí",
+    "english": "machine learning",
+    "category": "AI/ML"
+  },
+  {
+    "simplified": "深度学习",
+    "traditional": "深度學習",
+    "pinyin": "shēn dù xué xí",
+    "english": "deep learning",
+    "category": "AI/ML"
+  },
+  {
+    "simplified": "云计算",
+    "traditional": "雲計算",
+    "pinyin": "yún jì suàn",
+    "english": "cloud computing",
+    "category": "Cloud"
+  },
+  {
+    "simplified": "大数据",
+    "traditional": "大數據",
+    "pinyin": "dà shù jù",
+    "english": "big data",
+    "category": "Data"
+  },
+  {
+    "simplified": "前端",
+    "traditional": "前端",
+    "pinyin": "qián duān",
+    "english": "front-end",
+    "category": "Web"
+  },
+  {
+    "simplified": "后端",
+    "traditional": "後端",
+    "pinyin": "hòu duān",
+    "english": "back-end",
+    "category": "Web"
+  },
+  {
+    "simplified": "全栈",
+    "traditional": "全棧",
+    "pinyin": "quán zhàn",
+    "english": "full-stack",
+    "category": "Web"
+  },
+  {
+    "simplified": "框架",
+    "traditional": "框架",
+    "pinyin": "kuàng jià",
+    "english": "framework",
+    "category": "Development"
+  },
+  {
+    "simplified": "库",
+    "traditional": "庫",
+    "pinyin": "kù",
+    "english": "library",
+    "category": "Development"
+  },
+  {
+    "simplified": "接口",
+    "traditional": "接口",
+    "pinyin": "jiē kǒu",
+    "english": "API/interface",
+    "category": "Development"
+  },
+  {
+    "simplified": "应用程序",
+    "traditional": "應用程序",
+    "pinyin": "yìng yòng chéng xù",
+    "english": "application",
+    "category": "General"
+  },
+  {
+    "simplified": "操作系统",
+    "traditional": "操作系統",
+    "pinyin": "cāo zuò xì tǒng",
+    "english": "operating system",
+    "category": "Software"
+  },
+  {
+    "simplified": "浏览器",
+    "traditional": "瀏覽器",
+    "pinyin": "liú lǎn qì",
+    "english": "browser",
+    "category": "Web"
+  },
+  {
+    "simplified": "搜索引擎",
+    "traditional": "搜索引擎",
+    "pinyin": "sōu suǒ yǐn qíng",
+    "english": "search engine",
+    "category": "Web"
+  },
+  {
+    "simplified": "加密",
+    "traditional": "加密",
+    "pinyin": "jiā mì",
+    "english": "encryption",
+    "category": "Security"
+  },
+  {
+    "simplified": "解密",
+    "traditional": "解密",
+    "pinyin": "jiě mì",
+    "english": "decryption",
+    "category": "Security"
+  },
+  {
+    "simplified": "防火墙",
+    "traditional": "防火牆",
+    "pinyin": "fáng huǒ qiáng",
+    "english": "firewall",
+    "category": "Security"
+  },
+  {
+    "simplified": "病毒",
+    "traditional": "病毒",
+    "pinyin": "bìng dú",
+    "english": "virus",
+    "category": "Security"
+  },
+  {
+    "simplified": "黑客",
+    "traditional": "黑客",
+    "pinyin": "hēi kè",
+    "english": "hacker",
+    "category": "Security"
+  },
+  {
+    "simplified": "调试",
+    "traditional": "調試",
+    "pinyin": "tiáo shì",
+    "english": "debug",
+    "category": "Development"
+  },
+  {
+    "simplified": "编译",
+    "traditional": "編譯",
+    "pinyin": "biān yì",
+    "english": "compile",
+    "category": "Development"
+  },
+  {
+    "simplified": "源代码",
+    "traditional": "源代碼",
+    "pinyin": "yuán dài mǎ",
+    "english": "source code",
+    "category": "Development"
+  },
+  {
+    "simplified": "版本控制",
+    "traditional": "版本控制",
+    "pinyin": "bǎn běn kòng zhì",
+    "english": "version control",
+    "category": "Development"
+  },
+  {
+    "simplified": "测试",
+    "traditional": "測試",
+    "pinyin": "cè shì",
+    "english": "testing",
+    "category": "Development"
+  },
+  {
+    "simplified": "部署",
+    "traditional": "部署",
+    "pinyin": "bù shǔ",
+    "english": "deployment",
+    "category": "DevOps"
+  },
+  {
+    "simplified": "容器",
+    "traditional": "容器",
+    "pinyin": "róng qì",
+    "english": "container",
+    "category": "DevOps"
+  },
+  {
+    "simplified": "虚拟机",
+    "traditional": "虛擬機",
+    "pinyin": "xū nǐ jī",
+    "english": "virtual machine",
+    "category": "Cloud"
+  },
+  {
+    "simplified": "屏幕",
+    "traditional": "屏幕",
+    "pinyin": "píng mù",
+    "english": "screen",
+    "category": "Hardware"
+  },
+  {
+    "simplified": "键盘",
+    "traditional": "鍵盤",
+    "pinyin": "jiàn pán",
+    "english": "keyboard",
+    "category": "Hardware"
+  },
+  {
+    "simplified": "鼠标",
+    "traditional": "鼠標",
+    "pinyin": "shǔ biāo",
+    "english": "mouse",
+    "category": "Hardware"
+  },
+  {
+    "simplified": "显示器",
+    "traditional": "顯示器",
+    "pinyin": "xiǎn shì qì",
+    "english": "monitor",
+    "category": "Hardware"
+  },
+  {
+    "simplified": "打印机",
+    "traditional": "打印機",
+    "pinyin": "dǎ yìn jī",
+    "english": "printer",
+    "category": "Hardware"
+  },
+  {
+    "simplified": "存储",
+    "traditional": "存儲",
+    "pinyin": "cún chǔ",
+    "english": "storage",
+    "category": "Hardware"
+  },
+  {
+    "simplified": "内存",
+    "traditional": "內存",
+    "pinyin": "nèi cún",
+    "english": "memory/RAM",
+    "category": "Hardware"
+  },
+  {
+    "simplified": "硬盘",
+    "traditional": "硬盤",
+    "pinyin": "yìng pán",
+    "english": "hard drive",
+    "category": "Hardware"
+  },
+  {
+    "simplified": "处理器",
+    "traditional": "處理器",
+    "pinyin": "chǔ lǐ qì",
+    "english": "processor/CPU",
+    "category": "Hardware"
+  },
+  {
+    "simplified": "主板",
+    "traditional": "主板",
+    "pinyin": "zhǔ bǎn",
+    "english": "motherboard",
+    "category": "Hardware"
+  },
+  {
+    "simplified": "显卡",
+    "traditional": "顯卡",
+    "pinyin": "xiǎn kǎ",
+    "english": "graphics card/GPU",
+    "category": "Hardware"
+  },
+  {
+    "simplified": "路由器",
+    "traditional": "路由器",
+    "pinyin": "lù yóu qì",
+    "english": "router",
+    "category": "Networking"
+  },
+  {
+    "simplified": "交换机",
+    "traditional": "交換機",
+    "pinyin": "jiāo huàn jī",
+    "english": "switch",
+    "category": "Networking"
+  },
+  {
+    "simplified": "带宽",
+    "traditional": "帶寬",
+    "pinyin": "dài kuān",
+    "english": "bandwidth",
+    "category": "Networking"
+  },
+  {
+    "simplified": "下载",
+    "traditional": "下載",
+    "pinyin": "xià zǎi",
+    "english": "download",
+    "category": "Networking"
+  },
+  {
+    "simplified": "上传",
+    "traditional": "上傳",
+    "pinyin": "shàng chuán",
+    "english": "upload",
+    "category": "Networking"
+  },
+  {
+    "simplified": "文件",
+    "traditional": "文件",
+    "pinyin": "wén jiàn",
+    "english": "file",
+    "category": "General"
+  },
+  {
+    "simplified": "文件夹",
+    "traditional": "文件夾",
+    "pinyin": "wén jiàn jiā",
+    "english": "folder",
+    "category": "General"
+  },
+  {
+    "simplified": "数据",
+    "traditional": "數據",
+    "pinyin": "shù jù",
+    "english": "data",
+    "category": "Data"
+  },
+  {
+    "simplified": "信息",
+    "traditional": "信息",
+    "pinyin": "xìn xī",
+    "english": "information",
+    "category": "General"
+  },
+  {
+    "simplified": "变量",
+    "traditional": "變量",
+    "pinyin": "biàn liàng",
+    "english": "variable",
+    "category": "Development"
+  },
+  {
+    "simplified": "函数",
+    "traditional": "函數",
+    "pinyin": "hán shù",
+    "english": "function",
+    "category": "Development"
+  },
+  {
+    "simplified": "类",
+    "traditional": "類",
+    "pinyin": "lèi",
+    "english": "class",
+    "category": "Development"
+  },
+  {
+    "simplified": "对象",
+    "traditional": "對象",
+    "pinyin": "duì xiàng",
+    "english": "object",
+    "category": "Development"
+  },
+  {
+    "simplified": "数组",
+    "traditional": "數組",
+    "pinyin": "shù zǔ",
+    "english": "array",
+    "category": "Development"
+  },
+  {
+    "simplified": "循环",
+    "traditional": "循環",
+    "pinyin": "xún huán",
+    "english": "loop",
+    "category": "Development"
+  },
+  {
+    "simplified": "条件",
+    "traditional": "條件",
+    "pinyin": "tiáo jiàn",
+    "english": "condition",
+    "category": "Development"
+  },
+  {
+    "simplified": "错误",
+    "traditional": "錯誤",
+    "pinyin": "cuò wù",
+    "english": "error",
+    "category": "General"
+  },
+  {
+    "simplified": "异常",
+    "traditional": "異常",
+    "pinyin": "yì cháng",
+    "english": "exception",
+    "category": "Development"
+  },
+  {
+    "simplified": "用户",
+    "traditional": "用戶",
+    "pinyin": "yòng hù",
+    "english": "user",
+    "category": "General"
+  },
+  {
+    "simplified": "密码",
+    "traditional": "密碼",
+    "pinyin": "mì mǎ",
+    "english": "password",
+    "category": "Security"
+  },
+  {
+    "simplified": "账户",
+    "traditional": "賬戶",
+    "pinyin": "zhàng hù",
+    "english": "account",
+    "category": "General"
+  },
+  {
+    "simplified": "登录",
+    "traditional": "登錄",
+    "pinyin": "dēng lù",
+    "english": "login",
+    "category": "General"
+  },
+  {
+    "simplified": "注销",
+    "traditional": "註銷",
+    "pinyin": "zhù xiāo",
+    "english": "logout",
+    "category": "General"
+  },
+  {
+    "simplified": "注册",
+    "traditional": "註冊",
+    "pinyin": "zhù cè",
+    "english": "register/sign up",
+    "category": "General"
+  },
+  {
+    "simplified": "设置",
+    "traditional": "設置",
+    "pinyin": "shè zhì",
+    "english": "settings",
+    "category": "General"
+  },
+  {
+    "simplified": "配置",
+    "traditional": "配置",
+    "pinyin": "pèi zhì",
+    "english": "configuration",
+    "category": "General"
+  },
+  {
+    "simplified": "更新",
+    "traditional": "更新",
+    "pinyin": "gēng xīn",
+    "english": "update",
+    "category": "General"
+  },
+  {
+    "simplified": "升级",
+    "traditional": "升級",
+    "pinyin": "shēng jí",
+    "english": "upgrade",
+    "category": "General"
+  },
+  {
+    "simplified": "安装",
+    "traditional": "安裝",
+    "pinyin": "ān zhuāng",
+    "english": "install",
+    "category": "General"
+  },
+  {
+    "simplified": "卸载",
+    "traditional": "卸載",
+    "pinyin": "xiè zǎi",
+    "english": "uninstall",
+    "category": "General"
+  },
+  {
+    "simplified": "备份",
+    "traditional": "備份",
+    "pinyin": "bèi fèn",
+    "english": "backup",
+    "category": "General"
+  },
+  {
+    "simplified": "恢复",
+    "traditional": "恢復",
+    "pinyin": "huī fù",
+    "english": "restore",
+    "category": "General"
+  },
+  {
+    "simplified": "删除",
+    "traditional": "刪除",
+    "pinyin": "shān chú",
+    "english": "delete",
+    "category": "General"
+  },
+  {
+    "simplified": "复制",
+    "traditional": "複製",
+    "pinyin": "fù zhì",
+    "english": "copy",
+    "category": "General"
+  },
+  {
+    "simplified": "粘贴",
+    "traditional": "粘貼",
+    "pinyin": "zhān tiē",
+    "english": "paste",
+    "category": "General"
+  },
+  {
+    "simplified": "剪切",
+    "traditional": "剪切",
+    "pinyin": "jiǎn qiē",
+    "english": "cut",
+    "category": "General"
+  },
+  {
+    "simplified": "保存",
+    "traditional": "保存",
+    "pinyin": "bǎo cún",
+    "english": "save",
+    "category": "General"
+  },
+  {
+    "simplified": "打开",
+    "traditional": "打開",
+    "pinyin": "dǎ kāi",
+    "english": "open",
+    "category": "General"
+  },
+  {
+    "simplified": "关闭",
+    "traditional": "關閉",
+    "pinyin": "guān bì",
+    "english": "close",
+    "category": "General"
+  },
+  {
+    "simplified": "搜索",
+    "traditional": "搜索",
+    "pinyin": "sōu suǒ",
+    "english": "search",
+    "category": "General"
+  },
+  {
+    "simplified": "查找",
+    "traditional": "查找",
+    "pinyin": "chá zhǎo",
+    "english": "find",
+    "category": "General"
+  },
+  {
+    "simplified": "替换",
+    "traditional": "替換",
+    "pinyin": "tì huàn",
+    "english": "replace",
+    "category": "General"
+  },
+  {
+    "simplified": "撤销",
+    "traditional": "撤銷",
+    "pinyin": "chè xiāo",
+    "english": "undo",
+    "category": "General"
+  },
+  {
+    "simplified": "重做",
+    "traditional": "重做",
+    "pinyin": "chóng zuò",
+    "english": "redo",
+    "category": "General"
+  },
+  {
+    "simplified": "刷新",
+    "traditional": "刷新",
+    "pinyin": "shuā xīn",
+    "english": "refresh",
+    "category": "General"
+  },
+  {
+    "simplified": "加载",
+    "traditional": "加載",
+    "pinyin": "jiā zǎi",
+    "english": "load",
+    "category": "General"
+  },
+  {
+    "simplified": "运行",
+    "traditional": "運行",
+    "pinyin": "yùn xíng",
+    "english": "run/execute",
+    "category": "General"
+  },
+  {
+    "simplified": "停止",
+    "traditional": "停止",
+    "pinyin": "tíng zhǐ",
+    "english": "stop",
+    "category": "General"
+  },
+  {
+    "simplified": "暂停",
+    "traditional": "暫停",
+    "pinyin": "zàn tíng",
+    "english": "pause",
+    "category": "General"
+  },
+  {
+    "simplified": "继续",
+    "traditional": "繼續",
+    "pinyin": "jì xù",
+    "english": "continue",
+    "category": "General"
+  },
+  {
+    "simplified": "开始",
+    "traditional": "開始",
+    "pinyin": "kāi shǐ",
+    "english": "start",
+    "category": "General"
+  },
+  {
+    "simplified": "结束",
+    "traditional": "結束",
+    "pinyin": "jié shù",
+    "english": "end",
+    "category": "General"
+  },
+  {
+    "simplified": "汽车",
+    "traditional": "汽車",
+    "pinyin": "qì chē",
+    "english": "automobile/car",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "软件测试",
+    "traditional": "軟件測試",
+    "pinyin": "ruǎn jiàn cè shì",
+    "english": "software testing",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "测试用例",
+    "traditional": "測試用例",
+    "pinyin": "cè shì yòng lì",
+    "english": "test case",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "测试计划",
+    "traditional": "測試計劃",
+    "pinyin": "cè shì jì huà",
+    "english": "test plan",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "测试报告",
+    "traditional": "測試報告",
+    "pinyin": "cè shì bào gào",
+    "english": "test report",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "缺陷",
+    "traditional": "缺陷",
+    "pinyin": "quē xiàn",
+    "english": "defect/bug",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "故障",
+    "traditional": "故障",
+    "pinyin": "gù zhàng",
+    "english": "fault/malfunction",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "需求",
+    "traditional": "需求",
+    "pinyin": "xū qiú",
+    "english": "requirement",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "验证",
+    "traditional": "驗證",
+    "pinyin": "yàn zhèng",
+    "english": "verification",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "确认",
+    "traditional": "確認",
+    "pinyin": "què rèn",
+    "english": "validation",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "嵌入式系统",
+    "traditional": "嵌入式系統",
+    "pinyin": "qiàn rù shì xì tǒng",
+    "english": "embedded system",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "电子控制单元",
+    "traditional": "電子控制單元",
+    "pinyin": "diàn zǐ kòng zhì dān yuán",
+    "english": "ECU (Electronic Control Unit)",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "控制器局域网",
+    "traditional": "控制器局域網",
+    "pinyin": "kòng zhì qì jú yù wǎng",
+    "english": "CAN (Controller Area Network)",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "车载诊断系统",
+    "traditional": "車載診斷系統",
+    "pinyin": "chē zǎi zhěn duàn xì tǒng",
+    "english": "OBD (On-Board Diagnostics)",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "自动驾驶",
+    "traditional": "自動駕駛",
+    "pinyin": "zì dòng jià shǐ",
+    "english": "autonomous driving",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "高级驾驶辅助系统",
+    "traditional": "高級駕駛輔助系統",
+    "pinyin": "gāo jí jià shǐ fǔ zhù xì tǒng",
+    "english": "ADAS (Advanced Driver Assistance Systems)",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "功能安全",
+    "traditional": "功能安全",
+    "pinyin": "gōng néng ān quán",
+    "english": "functional safety",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "回归测试",
+    "traditional": "回歸測試",
+    "pinyin": "huí guī cè shì",
+    "english": "regression testing",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "集成测试",
+    "traditional": "集成測試",
+    "pinyin": "jí chéng cè shì",
+    "english": "integration testing",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "单元测试",
+    "traditional": "單元測試",
+    "pinyin": "dān yuán cè shì",
+    "english": "unit testing",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "系统测试",
+    "traditional": "系統測試",
+    "pinyin": "xì tǒng cè shì",
+    "english": "system testing",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "硬件在环",
+    "traditional": "硬件在環",
+    "pinyin": "yìng jiàn zài huán",
+    "english": "HIL (Hardware-in-the-Loop)",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "软件在环",
+    "traditional": "軟件在環",
+    "pinyin": "ruǎn jiàn zài huán",
+    "english": "SIL (Software-in-the-Loop)",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "模型在环",
+    "traditional": "模型在環",
+    "pinyin": "mó xíng zài huán",
+    "english": "MIL (Model-in-the-Loop)",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "仿真",
+    "traditional": "仿真",
+    "pinyin": "fǎng zhēn",
+    "english": "simulation",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "传感器",
+    "traditional": "傳感器",
+    "pinyin": "chuán gǎn qì",
+    "english": "sensor",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "执行器",
+    "traditional": "執行器",
+    "pinyin": "zhí xíng qì",
+    "english": "actuator",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "刷写",
+    "traditional": "刷寫",
+    "pinyin": "shuā xiě",
+    "english": "flashing (firmware)",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "固件",
+    "traditional": "固件",
+    "pinyin": "gù jiàn",
+    "english": "firmware",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "诊断",
+    "traditional": "診斷",
+    "pinyin": "zhěn duàn",
+    "english": "diagnostics",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "故障码",
+    "traditional": "故障碼",
+    "pinyin": "gù zhàng mǎ",
+    "english": "fault code/DTC",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "测试覆盖率",
+    "traditional": "測試覆蓋率",
+    "pinyin": "cè shì fù gài lǜ",
+    "english": "test coverage",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "代码覆盖率",
+    "traditional": "代碼覆蓋率",
+    "pinyin": "dài mǎ fù gài lǜ",
+    "english": "code coverage",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "需求追溯",
+    "traditional": "需求追溯",
+    "pinyin": "xū qiú zhuī sù",
+    "english": "requirements traceability",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "测试自动化",
+    "traditional": "測試自動化",
+    "pinyin": "cè shì zì dòng huà",
+    "english": "test automation",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "持续集成",
+    "traditional": "持續集成",
+    "pinyin": "chí xù jí chéng",
+    "english": "continuous integration (CI)",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "版本控制",
+    "traditional": "版本控制",
+    "pinyin": "bǎn běn kòng zhì",
+    "english": "version control",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "配置管理",
+    "traditional": "配置管理",
+    "pinyin": "pèi zhì guǎn lǐ",
+    "english": "configuration management",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "问题跟踪",
+    "traditional": "問題跟蹤",
+    "pinyin": "wèn tí gēn zōng",
+    "english": "issue tracking",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "严重性",
+    "traditional": "嚴重性",
+    "pinyin": "yán zhòng xìng",
+    "english": "severity",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "优先级",
+    "traditional": "優先級",
+    "pinyin": "yōu xiān jí",
+    "english": "priority",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "性能测试",
+    "traditional": "性能測試",
+    "pinyin": "xìng néng cè shì",
+    "english": "performance testing",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "压力测试",
+    "traditional": "壓力測試",
+    "pinyin": "yā lì cè shì",
+    "english": "stress testing",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "可靠性测试",
+    "traditional": "可靠性測試",
+    "pinyin": "kě kào xìng cè shì",
+    "english": "reliability testing",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "耐久性测试",
+    "traditional": "耐久性測試",
+    "pinyin": "nài jiǔ xìng cè shì",
+    "english": "durability testing",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "边界测试",
+    "traditional": "邊界測試",
+    "pinyin": "biān jiè cè shì",
+    "english": "boundary testing",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "冒烟测试",
+    "traditional": "冒煙測試",
+    "pinyin": "mào yān cè shì",
+    "english": "smoke testing",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "黑盒测试",
+    "traditional": "黑盒測試",
+    "pinyin": "hēi hé cè shì",
+    "english": "black-box testing",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "白盒测试",
+    "traditional": "白盒測試",
+    "pinyin": "bái hé cè shì",
+    "english": "white-box testing",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "灰盒测试",
+    "traditional": "灰盒測試",
+    "pinyin": "huī hé cè shì",
+    "english": "gray-box testing",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "车规级",
+    "traditional": "車規級",
+    "pinyin": "chē guī jí",
+    "english": "automotive-grade",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "电磁兼容",
+    "traditional": "電磁兼容",
+    "pinyin": "diàn cí jiān róng",
+    "english": "EMC (Electromagnetic Compatibility)",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "以太网",
+    "traditional": "以太網",
+    "pinyin": "yǐ tài wǎng",
+    "english": "Ethernet",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "车载以太网",
+    "traditional": "車載以太網",
+    "pinyin": "chē zǎi yǐ tài wǎng",
+    "english": "Automotive Ethernet",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "总线",
+    "traditional": "總線",
+    "pinyin": "zǒng xiàn",
+    "english": "bus (communication)",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "报文",
+    "traditional": "報文",
+    "pinyin": "bào wén",
+    "english": "message/frame",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "信号",
+    "traditional": "信號",
+    "pinyin": "xìn hào",
+    "english": "signal",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "协议",
+    "traditional": "協議",
+    "pinyin": "xié yì",
+    "english": "protocol",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "通信矩阵",
+    "traditional": "通信矩陣",
+    "pinyin": "tōng xìn jǔ zhèn",
+    "english": "communication matrix",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "标定",
+    "traditional": "標定",
+    "pinyin": "biāo dìng",
+    "english": "calibration",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "架构",
+    "traditional": "架構",
+    "pinyin": "jià gòu",
+    "english": "architecture",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "中间件",
+    "traditional": "中間件",
+    "pinyin": "zhōng jiān jiàn",
+    "english": "middleware",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "操作系统",
+    "traditional": "操作系統",
+    "pinyin": "cāo zuò xì tǒng",
+    "english": "operating system",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "实时操作系统",
+    "traditional": "實時操作系統",
+    "pinyin": "shí shí cāo zuò xì tǒng",
+    "english": "RTOS (Real-Time OS)",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "安全关键",
+    "traditional": "安全關鍵",
+    "pinyin": "ān quán guān jiàn",
+    "english": "safety-critical",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "风险评估",
+    "traditional": "風險評估",
+    "pinyin": "fēng xiǎn píng gū",
+    "english": "risk assessment",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "失效模式",
+    "traditional": "失效模式",
+    "pinyin": "shī xiào mó shì",
+    "english": "failure mode",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "故障注入",
+    "traditional": "故障注入",
+    "pinyin": "gù zhàng zhù rù",
+    "english": "fault injection",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "冗余",
+    "traditional": "冗餘",
+    "pinyin": "rǒng yú",
+    "english": "redundancy",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "看门狗",
+    "traditional": "看門狗",
+    "pinyin": "kān mén gǒu",
+    "english": "watchdog",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "引导程序",
+    "traditional": "引導程序",
+    "pinyin": "yǐn dǎo chéng xù",
+    "english": "bootloader",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "闪存",
+    "traditional": "閃存",
+    "pinyin": "shǎn cún",
+    "english": "flash memory",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "存储器",
+    "traditional": "存儲器",
+    "pinyin": "cún chǔ qì",
+    "english": "memory",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "微控制器",
+    "traditional": "微控制器",
+    "pinyin": "wēi kòng zhì qì",
+    "english": "microcontroller",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "处理器",
+    "traditional": "處理器",
+    "pinyin": "chǔ lǐ qì",
+    "english": "processor",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "时钟",
+    "traditional": "時鐘",
+    "pinyin": "shí zhōng",
+    "english": "clock",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "中断",
+    "traditional": "中斷",
+    "pinyin": "zhōng duàn",
+    "english": "interrupt",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "寄存器",
+    "traditional": "寄存器",
+    "pinyin": "jì cún qì",
+    "english": "register",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "驱动程序",
+    "traditional": "驅動程序",
+    "pinyin": "qū dòng chéng xù",
+    "english": "driver",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "应用层",
+    "traditional": "應用層",
+    "pinyin": "yìng yòng céng",
+    "english": "application layer",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "基础软件",
+    "traditional": "基礎軟件",
+    "pinyin": "jī chǔ ruǎn jiàn",
+    "english": "basic software",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "开发流程",
+    "traditional": "開發流程",
+    "pinyin": "kāi fā liú chéng",
+    "english": "development process",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "发布",
+    "traditional": "發布",
+    "pinyin": "fā bù",
+    "english": "release",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "基线",
+    "traditional": "基線",
+    "pinyin": "jī xiàn",
+    "english": "baseline",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "里程碑",
+    "traditional": "里程碑",
+    "pinyin": "lǐ chéng bēi",
+    "english": "milestone",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "交付物",
+    "traditional": "交付物",
+    "pinyin": "jiāo fù wù",
+    "english": "deliverable",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "评审",
+    "traditional": "評審",
+    "pinyin": "píng shěn",
+    "english": "review",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "批准",
+    "traditional": "批准",
+    "pinyin": "pī zhǔn",
+    "english": "approval",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "规范",
+    "traditional": "規範",
+    "pinyin": "guī fàn",
+    "english": "specification/standard",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "合规性",
+    "traditional": "合規性",
+    "pinyin": "hé guī xìng",
+    "english": "compliance",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "追溯性",
+    "traditional": "追溯性",
+    "pinyin": "zhuī sù xìng",
+    "english": "traceability",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "可维护性",
+    "traditional": "可維護性",
+    "pinyin": "kě wéi hù xìng",
+    "english": "maintainability",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "可扩展性",
+    "traditional": "可擴展性",
+    "pinyin": "kě kuò zhǎn xìng",
+    "english": "scalability",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "模块化",
+    "traditional": "模塊化",
+    "pinyin": "mó kuài huà",
+    "english": "modular",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "接口",
+    "traditional": "接口",
+    "pinyin": "jiē kǒu",
+    "english": "interface",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "文档",
+    "traditional": "文檔",
+    "pinyin": "wén dàng",
+    "english": "documentation",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "变更请求",
+    "traditional": "變更請求",
+    "pinyin": "biàn gēng qǐng qiú",
+    "english": "change request",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "影响分析",
+    "traditional": "影響分析",
+    "pinyin": "yǐng xiǎng fēn xī",
+    "english": "impact analysis",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "根本原因分析",
+    "traditional": "根本原因分析",
+    "pinyin": "gēn běn yuán yīn fēn xī",
+    "english": "root cause analysis",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "纠正措施",
+    "traditional": "糾正措施",
+    "pinyin": "jiū zhèng cuò shī",
+    "english": "corrective action",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "预防措施",
+    "traditional": "預防措施",
+    "pinyin": "yù fáng cuò shī",
+    "english": "preventive action",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "质量保证",
+    "traditional": "質量保證",
+    "pinyin": "zhì liàng bǎo zhèng",
+    "english": "quality assurance (QA)",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "质量控制",
+    "traditional": "質量控制",
+    "pinyin": "zhì liàng kòng zhì",
+    "english": "quality control (QC)",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "测试环境",
+    "traditional": "測試環境",
+    "pinyin": "cè shì huán jìng",
+    "english": "test environment",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "测试工具",
+    "traditional": "測試工具",
+    "pinyin": "cè shì gōng jù",
+    "english": "test tool",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "测试台架",
+    "traditional": "測試台架",
+    "pinyin": "cè shì tái jià",
+    "english": "test bench",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "测试脚本",
+    "traditional": "測試腳本",
+    "pinyin": "cè shì jiǎo běn",
+    "english": "test script",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "测试数据",
+    "traditional": "測試數據",
+    "pinyin": "cè shì shù jù",
+    "english": "test data",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "预期结果",
+    "traditional": "預期結果",
+    "pinyin": "yù qī jié guǒ",
+    "english": "expected result",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "实际结果",
+    "traditional": "實際結果",
+    "pinyin": "shí jì jié guǒ",
+    "english": "actual result",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "通过",
+    "traditional": "通過",
+    "pinyin": "tōng guò",
+    "english": "pass",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "失败",
+    "traditional": "失敗",
+    "pinyin": "shī bài",
+    "english": "fail",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "阻塞",
+    "traditional": "阻塞",
+    "pinyin": "zǔ sāi",
+    "english": "blocked",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "跳过",
+    "traditional": "跳過",
+    "pinyin": "tiào guò",
+    "english": "skip",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "重现",
+    "traditional": "重現",
+    "pinyin": "chóng xiàn",
+    "english": "reproduce",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "调试",
+    "traditional": "調試",
+    "pinyin": "tiáo shì",
+    "english": "debug",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "日志",
+    "traditional": "日誌",
+    "pinyin": "rì zhì",
+    "english": "log",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "跟踪",
+    "traditional": "跟蹤",
+    "pinyin": "gēn zōng",
+    "english": "trace",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "监控",
+    "traditional": "監控",
+    "pinyin": "jiān kòng",
+    "english": "monitoring",
+    "category": "Automotive"
+  },
+  {
+    "simplified": "性能指标",
+    "traditional": "性能指標",
+    "pinyin": "xìng néng zhǐ biāo",
+    "english": "performance metrics",
+    "category": "Automotive"
+  }
+]

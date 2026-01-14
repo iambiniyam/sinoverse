@@ -1,0 +1,647 @@
+[
+  {
+    "classifier": "个",
+    "used_with": "阿姨",
+    "pinyin": "ā yí"
+  },
+  {
+    "classifier": "份",
+    "used_with": "爱情",
+    "pinyin": "ài qíng"
+  },
+  {
+    "classifier": "片",
+    "used_with": "爱心",
+    "pinyin": "ài xīn"
+  },
+  {
+    "classifier": "粒",
+    "used_with": "安眠药",
+    "pinyin": "ān mián yào"
+  },
+  {
+    "classifier": "宗",
+    "used_with": "案件",
+    "pinyin": "àn jiàn"
+  },
+  {
+    "classifier": "桩",
+    "used_with": "案件",
+    "pinyin": "àn jiàn"
+  },
+  {
+    "classifier": "起",
+    "used_with": "案件",
+    "pinyin": "àn jiàn"
+  },
+  {
+    "classifier": "条",
+    "used_with": "坝",
+    "pinyin": "bà"
+  },
+  {
+    "classifier": "位",
+    "used_with": "爸爸",
+    "pinyin": "bà ba"
+  },
+  {
+    "classifier": "棵",
+    "used_with": "白菜",
+    "pinyin": "bái cài"
+  },
+  {
+    "classifier": "本",
+    "used_with": "百科全书",
+    "pinyin": "bǎi kē quán shū"
+  },
+  {
+    "classifier": "集",
+    "used_with": "百科全书",
+    "pinyin": "bǎi kē quán shū"
+  },
+  {
+    "classifier": "块",
+    "used_with": "板",
+    "pinyin": "bǎn"
+  },
+  {
+    "classifier": "间",
+    "used_with": "办公室",
+    "pinyin": "bàn gōng shì"
+  },
+  {
+    "classifier": "只",
+    "used_with": "棒球",
+    "pinyin": "bàng qiú"
+  },
+  {
+    "classifier": "枚",
+    "used_with": "宝石",
+    "pinyin": "bǎo shí"
+  },
+  {
+    "classifier": "颗",
+    "used_with": "宝石",
+    "pinyin": "bǎo shí"
+  },
+  {
+    "classifier": "种",
+    "used_with": "保护",
+    "pinyin": "bǎo hù"
+  },
+  {
+    "classifier": "张",
+    "used_with": "报",
+    "pinyin": "bào"
+  },
+  {
+    "classifier": "篇",
+    "used_with": "报道",
+    "pinyin": "bào dào"
+  },
+  {
+    "classifier": "通",
+    "used_with": "报告",
+    "pinyin": "bào gào"
+  },
+  {
+    "classifier": "家",
+    "used_with": "报社",
+    "pinyin": "bào shè"
+  },
+  {
+    "classifier": "期",
+    "used_with": "报纸",
+    "pinyin": "bào zhǐ"
+  },
+  {
+    "classifier": "场",
+    "used_with": "暴雨",
+    "pinyin": "bào yǔ"
+  },
+  {
+    "classifier": "阵",
+    "used_with": "暴雨",
+    "pinyin": "bào yǔ"
+  },
+  {
+    "classifier": "出",
+    "used_with": "悲剧",
+    "pinyin": "bēi jù"
+  },
+  {
+    "classifier": "面",
+    "used_with": "碑",
+    "pinyin": "bēi"
+  },
+  {
+    "classifier": "件",
+    "used_with": "背心",
+    "pinyin": "bèi xīn"
+  },
+  {
+    "classifier": "床",
+    "used_with": "被子",
+    "pinyin": "bèi zi"
+  },
+  {
+    "classifier": "项",
+    "used_with": "本领",
+    "pinyin": "běn lǐng"
+  },
+  {
+    "classifier": "次",
+    "used_with": "比赛",
+    "pinyin": "bǐ sài"
+  },
+  {
+    "classifier": "支",
+    "used_with": "笔",
+    "pinyin": "bǐ"
+  },
+  {
+    "classifier": "枝",
+    "used_with": "笔",
+    "pinyin": "bǐ"
+  },
+  {
+    "classifier": "根",
+    "used_with": "辫子",
+    "pinyin": "biàn zi"
+  },
+  {
+    "classifier": "幅",
+    "used_with": "标语",
+    "pinyin": "biāo yǔ"
+  },
+  {
+    "classifier": "幢",
+    "used_with": "别墅",
+    "pinyin": "bié shù"
+  },
+  {
+    "classifier": "座",
+    "used_with": "别墅",
+    "pinyin": "bié shù"
+  },
+  {
+    "classifier": "台",
+    "used_with": "冰箱",
+    "pinyin": "bīng xiāng"
+  },
+  {
+    "classifier": "名",
+    "used_with": "部长",
+    "pinyin": "bù zhǎng"
+  },
+  {
+    "classifier": "笔",
+    "used_with": "财产",
+    "pinyin": "cái chǎn"
+  },
+  {
+    "classifier": "道",
+    "used_with": "彩虹",
+    "pinyin": "cǎi hóng"
+  },
+  {
+    "classifier": "盘",
+    "used_with": "菜",
+    "pinyin": "cài"
+  },
+  {
+    "classifier": "撮",
+    "used_with": "草",
+    "pinyin": "cǎo"
+  },
+  {
+    "classifier": "株",
+    "used_with": "草",
+    "pinyin": "cǎo"
+  },
+  {
+    "classifier": "处",
+    "used_with": "厕所",
+    "pinyin": "cè suǒ"
+  },
+  {
+    "classifier": "把",
+    "used_with": "叉子",
+    "pinyin": "chā zi"
+  },
+  {
+    "classifier": "杯",
+    "used_with": "茶",
+    "pinyin": "chá"
+  },
+  {
+    "classifier": "壶",
+    "used_with": "茶",
+    "pinyin": "chá"
+  },
+  {
+    "classifier": "盒",
+    "used_with": "茶叶",
+    "pinyin": "chá yè"
+  },
+  {
+    "classifier": "罐",
+    "used_with": "茶叶",
+    "pinyin": "chá yè"
+  },
+  {
+    "classifier": "包",
+    "used_with": "茶叶",
+    "pinyin": "chá yè"
+  },
+  {
+    "classifier": "门",
+    "used_with": "常识",
+    "pinyin": "cháng shí"
+  },
+  {
+    "classifier": "扎",
+    "used_with": "钞票",
+    "pinyin": "chāo piào"
+  },
+  {
+    "classifier": "顿",
+    "used_with": "吵架",
+    "pinyin": "chǎo jià"
+  },
+  {
+    "classifier": "辆",
+    "used_with": "车",
+    "pinyin": "chē"
+  },
+  {
+    "classifier": "节",
+    "used_with": "车厢",
+    "pinyin": "chē xiāng"
+  },
+  {
+    "classifier": "句",
+    "used_with": "成语",
+    "pinyin": "chéng yǔ"
+  },
+  {
+    "classifier": "瓶",
+    "used_with": "橙汁",
+    "pinyin": "chéng zhī"
+  },
+  {
+    "classifier": "对",
+    "used_with": "翅膀",
+    "pinyin": "chì bǎng"
+  },
+  {
+    "classifier": "部",
+    "used_with": "传记",
+    "pinyin": "zhuàn jì"
+  },
+  {
+    "classifier": "艘",
+    "used_with": "船",
+    "pinyin": "chuán"
+  },
+  {
+    "classifier": "扇",
+    "used_with": "窗户",
+    "pinyin": "chuāng hu"
+  },
+  {
+    "classifier": "组",
+    "used_with": "词",
+    "pinyin": "cí"
+  },
+  {
+    "classifier": "首",
+    "used_with": "词",
+    "pinyin": "cí"
+  },
+  {
+    "classifier": "届",
+    "used_with": "大会",
+    "pinyin": "dà huì"
+  },
+  {
+    "classifier": "所",
+    "used_with": "大学",
+    "pinyin": "dà xué"
+  },
+  {
+    "classifier": "副",
+    "used_with": "担子",
+    "pinyin": "dàn zi"
+  },
+  {
+    "classifier": "打",
+    "used_with": "蛋",
+    "pinyin": "dàn"
+  },
+  {
+    "classifier": "股",
+    "used_with": "道",
+    "pinyin": "dào"
+  },
+  {
+    "classifier": "盏",
+    "used_with": "灯",
+    "pinyin": "dēng"
+  },
+  {
+    "classifier": "管",
+    "used_with": "笛子",
+    "pinyin": "dí zi"
+  },
+  {
+    "classifier": "封",
+    "used_with": "电报",
+    "pinyin": "diàn bào"
+  },
+  {
+    "classifier": "幕",
+    "used_with": "电影",
+    "pinyin": "diàn yǐng"
+  },
+  {
+    "classifier": "群",
+    "used_with": "动物",
+    "pinyin": "dòng wù"
+  },
+  {
+    "classifier": "记",
+    "used_with": "耳光",
+    "pinyin": "ěr guāng"
+  },
+  {
+    "classifier": " 套",
+    "used_with": "法律",
+    "pinyin": "fǎ lǜ"
+  },
+  {
+    "classifier": "碗",
+    "used_with": "饭",
+    "pinyin": "fàn"
+  },
+  {
+    "classifier": "套",
+    "used_with": "方案",
+    "pinyin": "fāng àn"
+  },
+  {
+    "classifier": "堵",
+    "used_with": "防火墙",
+    "pinyin": "fáng huǒ qiáng"
+  },
+  {
+    "classifier": "栋",
+    "used_with": "房子",
+    "pinyin": "fáng zi"
+  },
+  {
+    "classifier": "架",
+    "used_with": "飞机",
+    "pinyin": "fēi jī"
+  },
+  {
+    "classifier": "丝",
+    "used_with": "风",
+    "pinyin": "fēng"
+  },
+  {
+    "classifier": "身",
+    "used_with": "服装",
+    "pinyin": "fú zhuāng"
+  },
+  {
+    "classifier": "叶",
+    "used_with": "肝",
+    "pinyin": "gān"
+  },
+  {
+    "classifier": "口",
+    "used_with": "缸",
+    "pinyin": "gāng"
+  },
+  {
+    "classifier": "双",
+    "used_with": "胳膊",
+    "pinyin": "gē bo"
+  },
+  {
+    "classifier": "班",
+    "used_with": "公共汽车",
+    "pinyin": "gōng gòng qì chē"
+  },
+  {
+    "classifier": "具",
+    "used_with": "棺材",
+    "pinyin": "guān cai"
+  },
+  {
+    "classifier": "滴",
+    "used_with": "汗",
+    "pinyin": "hàn"
+  },
+  {
+    "classifier": "头",
+    "used_with": "汗",
+    "pinyin": "hàn"
+  },
+  {
+    "classifier": "堆",
+    "used_with": "号码",
+    "pinyin": "hào mǎ"
+  },
+  {
+    "classifier": "绺",
+    "used_with": "胡须",
+    "pinyin": "hú xū"
+  },
+  {
+    "classifier": "朵",
+    "used_with": "花",
+    "pinyin": "huā"
+  },
+  {
+    "classifier": "束",
+    "used_with": "花",
+    "pinyin": "huā"
+  },
+  {
+    "classifier": "盆",
+    "used_with": "花",
+    "pinyin": "huā"
+  },
+  {
+    "classifier": "簇",
+    "used_with": "花",
+    "pinyin": "huā"
+  },
+  {
+    "classifier": "席",
+    "used_with": "话",
+    "pinyin": "huà"
+  },
+  {
+    "classifier": "番",
+    "used_with": "话",
+    "pinyin": "huà"
+  },
+  {
+    "classifier": "列",
+    "used_with": "火车",
+    "pinyin": "huǒ chē"
+  },
+  {
+    "classifier": "趟",
+    "used_with": "火车",
+    "pinyin": "huǒ chē"
+  },
+  {
+    "classifier": "户",
+    "used_with": "家庭",
+    "pinyin": "jiā tíng"
+  },
+  {
+    "classifier": "点",
+    "used_with": "建议",
+    "pinyin": "jiàn yì"
+  },
+  {
+    "classifier": "桶",
+    "used_with": "酒",
+    "pinyin": "jiǔ"
+  },
+  {
+    "classifier": "缸",
+    "used_with": "酒",
+    "pinyin": "jiǔ"
+  },
+  {
+    "classifier": "瓣",
+    "used_with": "桔子",
+    "pinyin": "jú zi"
+  },
+  {
+    "classifier": "堂",
+    "used_with": "课",
+    "pinyin": "kè"
+  },
+  {
+    "classifier": "匹",
+    "used_with": "狼",
+    "pinyin": "láng"
+  },
+  {
+    "classifier": "段",
+    "used_with": "历史",
+    "pinyin": "lì shǐ"
+  },
+  {
+    "classifier": "层",
+    "used_with": "楼",
+    "pinyin": "lóu"
+  },
+  {
+    "classifier": "缕",
+    "used_with": "麻",
+    "pinyin": "má"
+  },
+  {
+    "classifier": "顶",
+    "used_with": "帽子",
+    "pinyin": "mào zi"
+  },
+  {
+    "classifier": "袋",
+    "used_with": "面包",
+    "pinyin": "miàn bāo"
+  },
+  {
+    "classifier": "泡",
+    "used_with": "尿",
+    "pinyin": "niào"
+  },
+  {
+    "classifier": "杆",
+    "used_with": "铅笔",
+    "pinyin": "qiān bǐ"
+  },
+  {
+    "classifier": "纸",
+    "used_with": "任命",
+    "pinyin": "rèn mìng"
+  },
+  {
+    "classifier": "则",
+    "used_with": "日记",
+    "pinyin": "rì jì"
+  },
+  {
+    "classifier": "回",
+    "used_with": "事",
+    "pinyin": "shì"
+  },
+  {
+    "classifier": "方",
+    "used_with": "手帕",
+    "pinyin": "shǒu pà"
+  },
+  {
+    "classifier": "册",
+    "used_with": "书",
+    "pinyin": "shū"
+  },
+  {
+    "classifier": "餐",
+    "used_with": "晚饭",
+    "pinyin": "wǎn fàn"
+  },
+  {
+    "classifier": "付",
+    "used_with": "望远镜",
+    "pinyin": "wàng yuǎn jìng"
+  },
+  {
+    "classifier": "页",
+    "used_with": "文章",
+    "pinyin": "wén zhāng"
+  },
+  {
+    "classifier": "服",
+    "used_with": "药",
+    "pinyin": "yào"
+  },
+  {
+    "classifier": "味",
+    "used_with": "药",
+    "pinyin": "yào"
+  },
+  {
+    "classifier": "曲",
+    "used_with": "音乐",
+    "pinyin": "yīn yuè"
+  },
+  {
+    "classifier": "尾",
+    "used_with": "鱼",
+    "pinyin": "yú"
+  },
+  {
+    "classifier": "轮",
+    "used_with": "月",
+    "pinyin": "yuè"
+  },
+  {
+    "classifier": "沓",
+    "used_with": "纸",
+    "pinyin": "zhǐ"
+  },
+  {
+    "classifier": "发",
+    "used_with": "子弹",
+    "pinyin": "zǐ dàn"
+  }
+]

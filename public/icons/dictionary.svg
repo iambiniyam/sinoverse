@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <!-- Background with gradient -->
+  <defs>
+    <linearGradient id="dictGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563EB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1E40AF;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Rounded background -->
+  <rect width="192" height="192" rx="42" fill="url(#dictGrad)"/>
+  
+  <!-- Dictionary book icon -->
+  <g transform="translate(96, 96)">
+    <!-- Book cover -->
+    <rect x="-40" y="-50" width="80" height="100" rx="4" fill="#1E40AF"/>
+    <rect x="-37" y="-47" width="74" height="94" rx="3" fill="#ffffff" opacity="0.95"/>
+    
+    <!-- Book spine decoration -->
+    <rect x="-40" y="-50" width="8" height="100" rx="4" fill="#1E3A8A"/>
+    
+    <!-- Dictionary entries (lines) -->
+    <line x1="-25" y1="-30" x2="25" y2="-30" stroke="#2563EB" stroke-width="2.5" opacity="0.4"/>
+    <line x1="-25" y1="-20" x2="15" y2="-20" stroke="#2563EB" stroke-width="2" opacity="0.3"/>
+    <line x1="-25" y1="-10" x2="25" y2="-10" stroke="#2563EB" stroke-width="2.5" opacity="0.4"/>
+    <line x1="-25" y1="0" x2="18" y2="0" stroke="#2563EB" stroke-width="2" opacity="0.3"/>
+    <line x1="-25" y1="10" x2="25" y2="10" stroke="#2563EB" stroke-width="2.5" opacity="0.4"/>
+    
+    <!-- Chinese character 词典 (dictionary) -->
+    <text x="0" y="38" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#2563EB" text-anchor="middle">词典</text>
+  </g>
+</svg>

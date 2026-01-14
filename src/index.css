@@ -1,0 +1,346 @@
+/**
+ * Chinese Learning Platform
+ * Copyright (C) 2025
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ */
+
+/* Noto Sans SC font - bundled locally for China accessibility */
+@font-face {
+  font-family: "Noto Sans SC";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/NotoSansSC-Regular.woff2") format("woff2");
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+2A700-2B73F,
+    U+2B740-2B81F, U+2B820-2CEAF;
+}
+
+@font-face {
+  font-family: "Noto Sans SC";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/NotoSansSC-Medium.woff2") format("woff2");
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+2A700-2B73F,
+    U+2B740-2B81F, U+2B820-2CEAF;
+}
+
+@font-face {
+  font-family: "Noto Sans SC";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/NotoSansSC-Bold.woff2") format("woff2");
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+2A700-2B73F,
+    U+2B740-2B81F, U+2B820-2CEAF;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply font-chinese antialiased;
+  }
+
+  body {
+    @apply bg-gray-50 text-ink-900;
+  }
+
+  /* Chinese character styling */
+  .chinese-char {
+    @apply font-chinese text-4xl leading-relaxed;
+  }
+
+  /* Pinyin styling with tone colors */
+  .pinyin {
+    @apply text-sm tracking-wide;
+  }
+
+  .tone-1 {
+    @apply text-chinese-red-500;
+  }
+
+  .tone-2 {
+    @apply text-jade-500;
+  }
+
+  .tone-3 {
+    @apply text-chinese-gold-600;
+  }
+
+  .tone-4 {
+    @apply text-blue-600;
+  }
+
+  .tone-5 {
+    @apply text-ink-400;
+  }
+}
+
+@layer components {
+  /* Primary button */
+  .btn-primary {
+    @apply px-4 py-2 bg-chinese-red-500 text-white rounded-lg 
+           hover:bg-chinese-red-600 active:bg-chinese-red-700
+           transition-colors duration-200 font-medium;
+  }
+
+  /* Secondary button */
+  .btn-secondary {
+    @apply px-4 py-2 bg-ink-100 text-ink-700 rounded-lg
+           hover:bg-ink-200 active:bg-ink-300
+           transition-colors duration-200 font-medium;
+  }
+
+  /* Gold accent button */
+  .btn-gold {
+    @apply px-4 py-2 bg-chinese-gold-500 text-white rounded-lg
+           hover:bg-chinese-gold-600 active:bg-chinese-gold-700
+           transition-colors duration-200 font-medium;
+  }
+
+  /* Card component - minimalist design */
+  .card {
+    @apply bg-white rounded-lg shadow-sm border border-ink-100 p-5;
+  }
+
+  /* Flashcard for vocabulary */
+  .flashcard {
+    @apply bg-white rounded-2xl shadow-lg p-8 min-h-[300px]
+           flex flex-col items-center justify-center
+           transition-transform duration-500;
+  }
+
+  .flashcard-flipped {
+    transform: rotateY(180deg);
+  }
+
+  /* Input field */
+  .input-field {
+    @apply w-full px-4 py-2 border border-ink-200 rounded-lg
+           focus:outline-none focus:ring-2 focus:ring-chinese-red-500 focus:border-transparent
+           transition-all duration-200;
+  }
+
+  /* Badge */
+  .badge {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+  }
+
+  .badge-success {
+    @apply bg-jade-100 text-jade-800;
+  }
+
+  .badge-warning {
+    @apply bg-chinese-gold-100 text-chinese-gold-800;
+  }
+
+  .badge-error {
+    @apply bg-chinese-red-100 text-chinese-red-800;
+  }
+
+  /* Progress bar */
+  .progress-bar {
+    @apply h-2 bg-ink-100 rounded-full overflow-hidden;
+  }
+
+  .progress-bar-fill {
+    @apply h-full bg-chinese-red-500 transition-all duration-300;
+  }
+
+  /* HSK level indicator */
+  .hsk-badge {
+    @apply inline-flex items-center justify-center w-8 h-8 rounded-full
+           bg-chinese-red-500 text-white text-sm font-bold;
+  }
+}
+
+@layer utilities {
+  /* Stroke animation for character writing */
+  .stroke-animate {
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: stroke-draw 1s ease-in-out forwards;
+    will-change: stroke-dashoffset;
+  }
+
+  /* Performance optimization: remove will-change after animation */
+  .stroke-animate:not(.animating) {
+    will-change: auto;
+  }
+
+  @keyframes stroke-draw {
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+
+  /* Flip animation for flashcards */
+  .perspective-1000 {
+    perspective: 1000px;
+  }
+
+  .preserve-3d {
+    transform-style: preserve-3d;
+  }
+
+  .backface-hidden {
+    backface-visibility: hidden;
+  }
+
+  /* Smooth scroll */
+  .scroll-smooth {
+    scroll-behavior: smooth;
+  }
+
+  /* Custom animations */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes slideIn {
+    from {
+      transform: translateX(-20px);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+
+  @keyframes slideUp {
+    from {
+      transform: translateY(20px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+
+  @keyframes scaleIn {
+    from {
+      transform: scale(0.95);
+      opacity: 0;
+    }
+    to {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+
+  @keyframes pulse {
+    0%,
+    100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.7;
+    }
+  }
+
+  @keyframes shimmer {
+    0% {
+      background-position: -1000px 0;
+    }
+    100% {
+      background-position: 1000px 0;
+    }
+  }
+
+  .animate-fadeIn {
+    animation: fadeIn 0.3s ease-out;
+    will-change: opacity, transform;
+  }
+
+  .animate-slideIn {
+    animation: slideIn 0.4s ease-out;
+    will-change: transform, opacity;
+  }
+
+  .animate-slideUp {
+    animation: slideUp 0.5s ease-out;
+    will-change: transform, opacity;
+  }
+
+  .animate-scaleIn {
+    animation: scaleIn 0.4s ease-out;
+    will-change: transform, opacity;
+  }
+
+  .animate-pulse {
+    animation: pulse 2s ease-in-out infinite;
+    will-change: opacity;
+  }
+
+  /* Loading skeleton */
+  .skeleton {
+    @apply bg-gradient-to-r from-ink-100 via-ink-200 to-ink-100;
+    background-size: 1000px 100%;
+    animation: shimmer 2s infinite linear;
+    will-change: background-position;
+  }
+
+  /* Gradient text */
+  .gradient-text-red {
+    @apply bg-gradient-to-r from-chinese-red-600 to-chinese-red-500 bg-clip-text text-transparent;
+  }
+
+  .gradient-text-gold {
+    @apply bg-gradient-to-r from-chinese-gold-600 to-chinese-red-500 bg-clip-text text-transparent;
+  }
+
+  /* Glass morphism */
+  .glass {
+    @apply bg-white/80 backdrop-blur-md border border-white/20;
+  }
+
+  /* Elevated shadow */
+  .shadow-elevated {
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Focus visible for accessibility */
+  .focus-ring {
+    @apply focus:outline-none focus:ring-2 focus:ring-chinese-red-500 focus:ring-offset-2;
+  }
+}
+
+/* Print styles */
+@media print {
+  nav,
+  footer,
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    @apply bg-white text-black;
+  }
+}
+
+/* Reduced motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
