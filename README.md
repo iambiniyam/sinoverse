@@ -29,6 +29,7 @@
 - **30,895 Idioms**: Comprehensive chengyu database with explanations
 - **13,023 Sentences**: Real-world examples for contextual learning
 - **129 Measure Words**: Essential classifiers with usage patterns
+- **210+ Tech Terms**: IT & automotive software testing vocabulary
 - **Comprehensive Dictionary**: Pinyin, meanings, examples, and audio
 - **Interactive Quizzes**: Adaptive testing with instant feedback
 - **PWA Ready**: Works offline, installable on mobile devices
@@ -62,14 +63,15 @@
 
 ### Content Library
 
-| Resource              | Count   | Description                 |
-| --------------------- | ------- | --------------------------- |
-| **HSK Words**         | 10,000+ | Complete HSK 1-9 curriculum |
-| **Chinese Idioms**    | 30,895  | Chengyu with derivations    |
-| **Example Sentences** | 13,023  | Bilingual sentence pairs    |
-| **Measure Words**     | 129     | Essential classifiers       |
-| **Radicals**          | 214     | Traditional radicals        |
-| **Tone Pairs**        | 16      | Common combinations         |
+| Resource               | Count   | Description                     |
+| ---------------------- | ------- | ------------------------------- |
+| **HSK Words**          | 10,000+ | Complete HSK 1-9 curriculum     |
+| **Chinese Idioms**     | 30,895  | Chengyu with derivations        |
+| **Example Sentences**  | 13,023  | Bilingual sentence pairs        |
+| **Measure Words**      | 129     | Essential classifiers           |
+| **Tech/IT Vocabulary** | 210+    | Technology & automotive testing |
+| **Radicals**           | 214     | Traditional radicals            |
+| **Tone Pairs**         | 16      | Common combinations             |
 
 ### Practice Modes
 

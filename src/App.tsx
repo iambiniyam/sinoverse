@@ -10,22 +10,25 @@
  */
 
 import { BrowserRouter, Routes, Route, NavLink } from "react-router-dom";
-import { useState, useEffect } from "react";
-import Home from "./pages/Home";
-import Learn from "./pages/Learn";
-import Vocabulary from "./pages/Vocabulary";
-import Characters from "./pages/Characters";
-import Pronunciation from "./pages/Pronunciation";
-import Lessons from "./pages/Lessons";
-import DictionaryPage from "./pages/Dictionary";
-import Sentences from "./pages/Sentences";
-import QuizPage from "./pages/Quiz";
-import ChengyuPage from "./pages/Chengyu";
-import MeasureWordsPage from "./pages/MeasureWords";
-import GrammarPage from "./pages/Grammar";
-import TechVocabularyPage from "./pages/TechVocabulary";
+import { useState, useEffect, lazy, Suspense } from "react";
 import ErrorBoundary from "./components/ErrorBoundary";
+import Loading from "./components/Loading";
 import { useProgressStore } from "./stores/progressStore";
+
+// Lazy load pages for better performance
+const Home = lazy(() => import("./pages/Home"));
+const Learn = lazy(() => import("./pages/Learn"));
+const Vocabulary = lazy(() => import("./pages/Vocabulary"));
+const Characters = lazy(() => import("./pages/Characters"));
+const Pronunciation = lazy(() => import("./pages/Pronunciation"));
+const Lessons = lazy(() => import("./pages/Lessons"));
+const DictionaryPage = lazy(() => import("./pages/Dictionary"));
+const Sentences = lazy(() => import("./pages/Sentences"));
+const QuizPage = lazy(() => import("./pages/Quiz"));
+const ChengyuPage = lazy(() => import("./pages/Chengyu"));
+const MeasureWordsPage = lazy(() => import("./pages/MeasureWords"));
+const GrammarPage = lazy(() => import("./pages/Grammar"));
+const TechVocabularyPage = lazy(() => import("./pages/TechVocabulary"));
 
 function App() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -183,21 +186,26 @@ function App() {
 
           {/* Main Content */}
           <main className="flex-1 py-6 px-4">
-            <Routes>
-              <Route path="/" element={<Home />} />
-              <Route path="/learn" element={<Learn />} />
-              <Route path="/vocabulary" element={<Vocabulary />} />
-              <Route path="/dictionary" element={<DictionaryPage />} />
-              <Route path="/characters" element={<Characters />} />
-              <Route path="/pronunciation" element={<Pronunciation />} />
-              <Route path="/sentences" element={<Sentences />} />
-              <Route path="/grammar" element={<GrammarPage />} />
-              <Route path="/lessons" element={<Lessons />} />
-              <Route path="/quiz" element={<QuizPage />} />
-              <Route path="/chengyu" element={<ChengyuPage />} />
-              <Route path="/measure-words" element={<MeasureWordsPage />} />
-              <Route path="/tech-vocabulary" element={<TechVocabularyPage />} />
-            </Routes>
+            <Suspense fallback={<Loading />}>
+              <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/learn" element={<Learn />} />
+                <Route path="/vocabulary" element={<Vocabulary />} />
+                <Route path="/dictionary" element={<DictionaryPage />} />
+                <Route path="/characters" element={<Characters />} />
+                <Route path="/pronunciation" element={<Pronunciation />} />
+                <Route path="/sentences" element={<Sentences />} />
+                <Route path="/grammar" element={<GrammarPage />} />
+                <Route path="/lessons" element={<Lessons />} />
+                <Route path="/quiz" element={<QuizPage />} />
+                <Route path="/chengyu" element={<ChengyuPage />} />
+                <Route path="/measure-words" element={<MeasureWordsPage />} />
+                <Route
+                  path="/tech-vocabulary"
+                  element={<TechVocabularyPage />}
+                />
+              </Routes>
+            </Suspense>
           </main>
 
           {/* Footer */}
