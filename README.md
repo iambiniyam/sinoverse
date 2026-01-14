@@ -35,7 +35,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 ### Learning Tools
 
@@ -102,7 +102,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sinoverse.git
+git clone https://github.com/iambiniyam/sinoverse.git
 cd sinoverse
 
 # Install dependencies
@@ -124,19 +124,7 @@ npm run build
 npm run preview
 ```
 
-### Docker Deployment (Optional)
-
-```bash
-# Build Docker image
-docker build -t sinoverse .
-
-# Run container
-docker run -p 3000:3000 sinoverse
-```
-
----
-
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 
